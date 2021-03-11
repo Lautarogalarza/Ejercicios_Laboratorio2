@@ -1,0 +1,16 @@
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\bin\Debug\netcoreapp3.1\Ejercicio47.Consola.exe
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\bin\Debug\netcoreapp3.1\Ejercicio47.Consola.deps.json
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\bin\Debug\netcoreapp3.1\Ejercicio47.Consola.runtimeconfig.json
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\bin\Debug\netcoreapp3.1\Ejercicio47.Consola.runtimeconfig.dev.json
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\bin\Debug\netcoreapp3.1\Ejercicio47.Consola.dll
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\bin\Debug\netcoreapp3.1\Ejercicio47.Consola.pdb
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\bin\Debug\netcoreapp3.1\Ejercicio47.Entidades.dll
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\bin\Debug\netcoreapp3.1\Ejercicio47.Entidades.pdb
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\obj\Debug\netcoreapp3.1\Ejercicio47.Consola.csprojAssemblyReference.cache
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\obj\Debug\netcoreapp3.1\Ejercicio47.Consola.AssemblyInfoInputs.cache
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\obj\Debug\netcoreapp3.1\Ejercicio47.Consola.AssemblyInfo.cs
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\obj\Debug\netcoreapp3.1\Ejercicio47.Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\obj\Debug\netcoreapp3.1\Ejercicio47.Consola.csproj.CopyComplete
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\obj\Debug\netcoreapp3.1\Ejercicio47.Consola.dll
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\obj\Debug\netcoreapp3.1\Ejercicio47.Consola.pdb
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Consola\obj\Debug\netcoreapp3.1\Ejercicio47.Consola.genruntimeconfig.cache

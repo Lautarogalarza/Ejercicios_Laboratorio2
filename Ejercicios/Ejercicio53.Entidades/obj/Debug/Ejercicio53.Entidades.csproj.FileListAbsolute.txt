@@ -1,0 +1,5 @@
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio53.Entidades\bin\Debug\Ejercicio53.Entidades.dll
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio53.Entidades\bin\Debug\Ejercicio53.Entidades.pdb
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio53.Entidades\obj\Debug\Ejercicio53.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio53.Entidades\obj\Debug\Ejercicio53.Entidades.dll
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio53.Entidades\obj\Debug\Ejercicio53.Entidades.pdb

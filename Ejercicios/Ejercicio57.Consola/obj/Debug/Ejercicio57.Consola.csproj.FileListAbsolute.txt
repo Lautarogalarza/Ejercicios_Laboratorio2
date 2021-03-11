@@ -1,0 +1,7 @@
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio57.Consola\bin\Debug\Ejercicio57.Consola.exe.config
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio57.Consola\bin\Debug\Ejercicio57.Consola.exe
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio57.Consola\bin\Debug\Ejercicio57.Consola.pdb
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio57.Consola\obj\Debug\Ejercicio57.Consola.csprojAssemblyReference.cache
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio57.Consola\obj\Debug\Ejercicio57.Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio57.Consola\obj\Debug\Ejercicio57.Consola.exe
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio57.Consola\obj\Debug\Ejercicio57.Consola.pdb

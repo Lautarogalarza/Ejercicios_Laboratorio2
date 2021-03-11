@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejercicio53.Consola/1.0.0": {
+        "dependencies": {
+          "Ejercicio53.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio53.Consola.dll": {}
+        }
+      },
+      "Ejercicio53.Entidades/1.0.0": {
+        "runtime": {
+          "Ejercicio53.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio53.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ejercicio53.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

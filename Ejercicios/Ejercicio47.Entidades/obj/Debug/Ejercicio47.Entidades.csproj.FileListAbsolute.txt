@@ -1,0 +1,6 @@
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Entidades\bin\Debug\Ejercicio47.Entidades.dll
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Entidades\bin\Debug\Ejercicio47.Entidades.pdb
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Entidades\obj\Debug\Ejercicio47.Entidades.csprojAssemblyReference.cache
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Entidades\obj\Debug\Ejercicio47.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Entidades\obj\Debug\Ejercicio47.Entidades.dll
+C:\Users\lauta\source\repos\Ejercicios\Ejercicio47.Entidades\obj\Debug\Ejercicio47.Entidades.pdb
