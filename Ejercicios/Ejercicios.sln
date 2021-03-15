@@ -3,29 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio19.Consola", "Ejercicio19.Consola\Ejercicio19.Consola.csproj", "{09B7A898-2C00-4E28-B7F2-72B90C037AF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio19.Consola", "Ejercicio19.Consola\Ejercicio19.Consola.csproj", "{09B7A898-2C00-4E28-B7F2-72B90C037AF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio34.Consola", "Ejercicio34.Consola\Ejercicio34.Consola.csproj", "{08B566B1-1239-43F7-9695-22888C3F86CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio34.Consola", "Ejercicio34.Consola\Ejercicio34.Consola.csproj", "{08B566B1-1239-43F7-9695-22888C3F86CF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio34.Entidades", "Ejercicio34.Entidades\Ejercicio34.Entidades.csproj", "{DB8D92EF-A84C-45DB-A89A-1F085F0A286A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio38y39.Consola", "Ejercicio38.Consola\Ejercicio38y39.Consola.csproj", "{1573E39A-E3FE-4DE2-9621-DD4365844A24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio38y39.Consola", "Ejercicio38.Consola\Ejercicio38y39.Consola.csproj", "{1573E39A-E3FE-4DE2-9621-DD4365844A24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio47.Consola", "Ejercicio47.Consola\Ejercicio47.Consola.csproj", "{F8BD3827-B643-4343-A08D-AFBFFDD0DD05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio47.Consola", "Ejercicio47.Consola\Ejercicio47.Consola.csproj", "{F8BD3827-B643-4343-A08D-AFBFFDD0DD05}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio47.Entidades", "Ejercicio47.Entidades\Ejercicio47.Entidades.csproj", "{6622FFE5-0F36-474A-9364-D05D3745BC7C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio52.Entidades", "Ejercicio52.Entidades\Ejercicio52.Entidades.csproj", "{E5751FB1-587D-4EA0-B208-88F0FA782D4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio52.Consola", "Ejercicio52.Consola\Ejercicio52.Consola.csproj", "{28A8CCA3-91E9-4EE9-8DAD-6210FDCCE709}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio52.Consola", "Ejercicio52.Consola\Ejercicio52.Consola.csproj", "{28A8CCA3-91E9-4EE9-8DAD-6210FDCCE709}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio53.Consola", "Ejercicio53.Consola\Ejercicio53.Consola.csproj", "{15836CCD-600E-4865-8E7A-D1F1C7D438A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio53.Consola", "Ejercicio53.Consola\Ejercicio53.Consola.csproj", "{15836CCD-600E-4865-8E7A-D1F1C7D438A6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio53.Entidades", "Ejercicio53.Entidades\Ejercicio53.Entidades.csproj", "{017BA002-149F-4BF3-AB30-E0754EE45A37}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio57.Consola", "Ejercicio57.Consola\Ejercicio57.Consola.csproj", "{DC29F59D-3E3F-4C6A-B378-036F1E3557AD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio73.Consola", "Ejercicio73.Consola\Ejercicio73.Consola.csproj", "{0E0D4492-0BEF-4CD2-8374-F45F76F6CB27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio61.WindowsForm", "Ejercicio61.WindowsForm\Ejercicio61.WindowsForm.csproj", "{FFBE2EA3-E8C5-4487-8968-4537A7186425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio61.Entidades", "Ejercicio61.Entidades\Ejercicio61.Entidades.csproj", "{00549830-F718-4596-A645-563346846BF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{0E0D4492-0BEF-4CD2-8374-F45F76F6CB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E0D4492-0BEF-4CD2-8374-F45F76F6CB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E0D4492-0BEF-4CD2-8374-F45F76F6CB27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBE2EA3-E8C5-4487-8968-4537A7186425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBE2EA3-E8C5-4487-8968-4537A7186425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBE2EA3-E8C5-4487-8968-4537A7186425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBE2EA3-E8C5-4487-8968-4537A7186425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00549830-F718-4596-A645-563346846BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00549830-F718-4596-A645-563346846BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00549830-F718-4596-A645-563346846BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00549830-F718-4596-A645-563346846BF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
