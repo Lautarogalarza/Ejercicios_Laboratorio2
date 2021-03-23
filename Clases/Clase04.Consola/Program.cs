@@ -21,14 +21,17 @@ namespace Clase04.Consola
             lejajoAlumno2 = alumno2;
             dniAlumno1 = (long)alumno1;
 
-            if (alumno1 + 102345)
-            {
-                Console.WriteLine("Se pudo realizar la suma! Valor del legajo: {0}", alumno1.GetLegajo());
-            }
-           
-            Console.WriteLine("Legajo Alumno 2: {0}", lejajoAlumno2);
+            //if (alumno1 + 102345)
+            //{
+            //    Console.WriteLine("Se pudo realizar la suma! Valor del legajo: {0}", alumno1.GetLegajo());
+            //}
 
-            Console.WriteLine("Dni Alumno 1: {0}", dniAlumno1);
+            alumno1 += 102345;
+            Console.WriteLine("Legajo Alumno 1: {0}\n", alumno1.GetLegajo());
+
+
+            Console.WriteLine("Legajo Alumno 2: {0}", lejajoAlumno2);
+            Console.WriteLine("Dni Alumno 1: {0}\n", dniAlumno1);
 
             Console.WriteLine("Son iguales?: {0}\n", alumno1 == alumno2);
             Console.WriteLine("Son distintos?: {0}\n", alumno1 != alumno2);

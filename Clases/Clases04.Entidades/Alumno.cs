@@ -48,18 +48,27 @@ namespace Clases04.Entidades
             return alumno.legajo;
         }
 
-        public static bool operator + (Alumno alumno,int legajo)
+        //public static bool operator + (Alumno alumno,int legajo)
+        //{
+        //    bool retorno = false;
+        //    alumno.SetLegajo(alumno,legajo);
+
+        //    if (alumno.legajo!=0)
+        //    {
+        //        retorno = true;
+        //    }
+
+        //    return retorno;
+        //}
+
+
+        public static Alumno operator +(Alumno alumno, int legajo)
         {
-            bool retorno = false;
-            alumno.SetLegajo(alumno,legajo);
+            alumno.SetLegajo(alumno, legajo);
 
-            if (alumno.legajo!=0)
-            {
-                retorno = true;
-            }
-
-            return retorno;
+            return alumno;
         }
+
 
         public static bool operator ==(Alumno alumno1, Alumno alumno2)
         {
