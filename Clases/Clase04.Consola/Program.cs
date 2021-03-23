@@ -16,10 +16,10 @@ namespace Clase04.Consola
 
             Alumno alumno1 = new Alumno("Juan", "Perez", 30865445);
 
-            Alumno alumno2 = new Alumno("Jon", "Smith", 30865445,107645);
+            Alumno alumno2 = new Alumno("Jon", "Smith", 41456778,107645);
 
             lejajoAlumno2 = alumno2;
-            dniAlumno1 = (long)alumno2;
+            dniAlumno1 = (long)alumno1;
 
             if (alumno1 + 102345)
             {

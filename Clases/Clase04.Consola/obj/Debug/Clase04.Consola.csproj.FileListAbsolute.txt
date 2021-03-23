@@ -8,3 +8,13 @@ C:\Users\lauta\source\repos\Clases\Clase04.Consola\bin\Debug\Clases04.Entidades.
 C:\Users\lauta\source\repos\Clases\Clase04.Consola\obj\Debug\Clase04.Consola.csproj.CopyComplete
 C:\Users\lauta\source\repos\Clases\Clase04.Consola\obj\Debug\Clase04.Consola.exe
 C:\Users\lauta\source\repos\Clases\Clase04.Consola\obj\Debug\Clase04.Consola.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases\Clase04.Consola\bin\Debug\Clase04.Consola.exe.config
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases\Clase04.Consola\bin\Debug\Clase04.Consola.exe
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases\Clase04.Consola\bin\Debug\Clase04.Consola.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases\Clase04.Consola\bin\Debug\Clases04.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases\Clase04.Consola\bin\Debug\Clases04.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases\Clase04.Consola\obj\Debug\Clase04.Consola.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases\Clase04.Consola\obj\Debug\Clase04.Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases\Clase04.Consola\obj\Debug\Clase04.Consola.csproj.CopyComplete
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases\Clase04.Consola\obj\Debug\Clase04.Consola.exe
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases\Clase04.Consola\obj\Debug\Clase04.Consola.pdb
