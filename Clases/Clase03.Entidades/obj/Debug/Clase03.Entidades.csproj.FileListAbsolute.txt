@@ -1,0 +1,6 @@
+C:\Users\lauta\source\repos\Clases\Clase03.Entidades\bin\Debug\Clase03.Entidades.dll
+C:\Users\lauta\source\repos\Clases\Clase03.Entidades\bin\Debug\Clase03.Entidades.pdb
+C:\Users\lauta\source\repos\Clases\Clase03.Entidades\obj\Debug\Clase03.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Clases\Clase03.Entidades\obj\Debug\Clase03.Entidades.dll
+C:\Users\lauta\source\repos\Clases\Clase03.Entidades\obj\Debug\Clase03.Entidades.pdb
+C:\Users\lauta\source\repos\Clases\Clase03.Entidades\obj\Debug\Clase03.Entidades.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\lauta\source\repos\Clases\Clase03.Consola\bin\Debug\Clase03.Consola.exe.config
+C:\Users\lauta\source\repos\Clases\Clase03.Consola\bin\Debug\Clase03.Consola.exe
+C:\Users\lauta\source\repos\Clases\Clase03.Consola\bin\Debug\Clase03.Consola.pdb
+C:\Users\lauta\source\repos\Clases\Clase03.Consola\bin\Debug\Clase03.Entidades.dll
+C:\Users\lauta\source\repos\Clases\Clase03.Consola\bin\Debug\Clase03.Entidades.pdb
+C:\Users\lauta\source\repos\Clases\Clase03.Consola\obj\Debug\Clase03.Consola.csprojAssemblyReference.cache
+C:\Users\lauta\source\repos\Clases\Clase03.Consola\obj\Debug\Clase03.Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Clases\Clase03.Consola\obj\Debug\Clase03.Consola.csproj.CopyComplete
+C:\Users\lauta\source\repos\Clases\Clase03.Consola\obj\Debug\Clase03.Consola.exe
+C:\Users\lauta\source\repos\Clases\Clase03.Consola\obj\Debug\Clase03.Consola.pdb

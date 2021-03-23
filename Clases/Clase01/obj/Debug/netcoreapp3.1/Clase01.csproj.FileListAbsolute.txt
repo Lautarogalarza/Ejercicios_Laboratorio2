@@ -1,0 +1,13 @@
+C:\Users\lauta\source\repos\Clases\Clase01\bin\Debug\netcoreapp3.1\Clase01.exe
+C:\Users\lauta\source\repos\Clases\Clase01\bin\Debug\netcoreapp3.1\Clase01.deps.json
+C:\Users\lauta\source\repos\Clases\Clase01\bin\Debug\netcoreapp3.1\Clase01.runtimeconfig.json
+C:\Users\lauta\source\repos\Clases\Clase01\bin\Debug\netcoreapp3.1\Clase01.runtimeconfig.dev.json
+C:\Users\lauta\source\repos\Clases\Clase01\bin\Debug\netcoreapp3.1\Clase01.dll
+C:\Users\lauta\source\repos\Clases\Clase01\bin\Debug\netcoreapp3.1\Clase01.pdb
+C:\Users\lauta\source\repos\Clases\Clase01\obj\Debug\netcoreapp3.1\Clase01.AssemblyInfoInputs.cache
+C:\Users\lauta\source\repos\Clases\Clase01\obj\Debug\netcoreapp3.1\Clase01.AssemblyInfo.cs
+C:\Users\lauta\source\repos\Clases\Clase01\obj\Debug\netcoreapp3.1\Clase01.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Clases\Clase01\obj\Debug\netcoreapp3.1\Clase01.dll
+C:\Users\lauta\source\repos\Clases\Clase01\obj\Debug\netcoreapp3.1\Clase01.pdb
+C:\Users\lauta\source\repos\Clases\Clase01\obj\Debug\netcoreapp3.1\Clase01.genruntimeconfig.cache
+C:\Users\lauta\source\repos\Clases\Clase01\obj\Debug\netcoreapp3.1\Clase01.csprojAssemblyReference.cache

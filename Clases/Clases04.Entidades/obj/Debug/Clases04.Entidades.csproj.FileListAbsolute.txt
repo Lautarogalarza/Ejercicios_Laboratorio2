@@ -1,0 +1,6 @@
+C:\Users\lauta\source\repos\Clases\Clases04.Entidades\bin\Debug\Clases04.Entidades.dll
+C:\Users\lauta\source\repos\Clases\Clases04.Entidades\bin\Debug\Clases04.Entidades.pdb
+C:\Users\lauta\source\repos\Clases\Clases04.Entidades\obj\Debug\Clases04.Entidades.csprojAssemblyReference.cache
+C:\Users\lauta\source\repos\Clases\Clases04.Entidades\obj\Debug\Clases04.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Clases\Clases04.Entidades\obj\Debug\Clases04.Entidades.dll
+C:\Users\lauta\source\repos\Clases\Clases04.Entidades\obj\Debug\Clases04.Entidades.pdb

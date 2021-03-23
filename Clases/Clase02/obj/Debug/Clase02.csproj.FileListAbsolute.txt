@@ -1,0 +1,7 @@
+C:\Users\lauta\source\repos\Clases\Clase02\bin\Debug\Clase02.exe.config
+C:\Users\lauta\source\repos\Clases\Clase02\bin\Debug\Clase02.exe
+C:\Users\lauta\source\repos\Clases\Clase02\bin\Debug\Clase02.pdb
+C:\Users\lauta\source\repos\Clases\Clase02\obj\Debug\Clase02.csprojAssemblyReference.cache
+C:\Users\lauta\source\repos\Clases\Clase02\obj\Debug\Clase02.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Clases\Clase02\obj\Debug\Clase02.exe
+C:\Users\lauta\source\repos\Clases\Clase02\obj\Debug\Clase02.pdb
