@@ -5,3 +5,9 @@ C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.Entidades\
 C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.Entidades\obj\Debug\Ejercicio61.Entidades.csproj.CoreCompileInputs.cache
 C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.Entidades\obj\Debug\Ejercicio61.Entidades.dll
 C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.Entidades\obj\Debug\Ejercicio61.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.Entidades\bin\Debug\Ejercicio61.Entidades.dll.config
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.Entidades\bin\Debug\Ejercicio61.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.Entidades\bin\Debug\Ejercicio61.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.Entidades\obj\Debug\Ejercicio61.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.Entidades\obj\Debug\Ejercicio61.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.Entidades\obj\Debug\Ejercicio61.Entidades.pdb

@@ -1,0 +1,13 @@
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.WindowsForm\obj\Debug\Ejercicio_Herencia.WindowsForm.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.WindowsForm\obj\Debug\Ejercicio_Herencia.WindowsForm.Properties.Resources.resources
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.WindowsForm\obj\Debug\Ejercicio_Herencia.WindowsForm.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.WindowsForm\obj\Debug\Ejercicio_Herencia.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.WindowsForm\bin\Debug\Ejercicio_Herencia.WindowsForm.exe.config
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.WindowsForm\bin\Debug\Ejercicio_Herencia.WindowsForm.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.WindowsForm\bin\Debug\Ejercicio_Herencia.WindowsForm.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.WindowsForm\bin\Debug\Ejercicio_Herencia.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.WindowsForm\bin\Debug\Ejercicio_Herencia.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.WindowsForm\obj\Debug\Ejercicio_Herencia.WindowsForm.csproj.CopyComplete
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.WindowsForm\obj\Debug\Ejercicio_Herencia.WindowsForm.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.WindowsForm\obj\Debug\Ejercicio_Herencia.WindowsForm.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.WindowsForm\obj\Debug\Ejercicio_Herencia.WindowsForm.FrmCatedra.resources

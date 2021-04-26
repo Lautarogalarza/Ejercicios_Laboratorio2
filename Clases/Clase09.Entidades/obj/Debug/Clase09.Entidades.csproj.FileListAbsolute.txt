@@ -1,0 +1,5 @@
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase09.Entidades\bin\Debug\Clase09.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase09.Entidades\bin\Debug\Clase09.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase09.Entidades\obj\Debug\Clase09.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase09.Entidades\obj\Debug\Clase09.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase09.Entidades\obj\Debug\Clase09.Entidades.pdb

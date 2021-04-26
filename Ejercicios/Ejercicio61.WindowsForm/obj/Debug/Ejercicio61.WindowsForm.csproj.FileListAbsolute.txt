@@ -12,3 +12,17 @@ C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsFor
 C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\bin\Debug\Ejercicio61.Entidades.pdb
 C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\bin\Debug\Ejercicio61.Entidades.dll.config
 C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\obj\Debug\Ejercicio61.WindowsForm.csproj.CopyComplete
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\bin\Debug\Ejercicio61.WindowsForm.exe.config
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\bin\Debug\Ejercicio61.WindowsForm.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\bin\Debug\Ejercicio61.WindowsForm.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\bin\Debug\Ejercicio61.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\bin\Debug\Ejercicio61.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\bin\Debug\Ejercicio61.Entidades.dll.config
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\obj\Debug\Ejercicio61.WindowsForm.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\obj\Debug\Ejercicio61.WindowsForm.frmPersona.resources
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\obj\Debug\Ejercicio61.WindowsForm.Properties.Resources.resources
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\obj\Debug\Ejercicio61.WindowsForm.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\obj\Debug\Ejercicio61.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\obj\Debug\Ejercicio61.WindowsForm.csproj.CopyComplete
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\obj\Debug\Ejercicio61.WindowsForm.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio61.WindowsForm\obj\Debug\Ejercicio61.WindowsForm.pdb

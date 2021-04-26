@@ -1,0 +1,10 @@
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Consola\obj\Debug\Ejercicio_Herencia.Consola.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Consola\obj\Debug\Ejercicio_Herencia.Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Consola\bin\Debug\Ejercicio_Herencia.Consola.exe.config
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Consola\bin\Debug\Ejercicio_Herencia.Consola.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Consola\bin\Debug\Ejercicio_Herencia.Consola.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Consola\bin\Debug\Ejercicio_Herencia.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Consola\bin\Debug\Ejercicio_Herencia.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Consola\obj\Debug\Ejercicio_Herencia.Consola.csproj.CopyComplete
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Consola\obj\Debug\Ejercicio_Herencia.Consola.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Consola\obj\Debug\Ejercicio_Herencia.Consola.pdb

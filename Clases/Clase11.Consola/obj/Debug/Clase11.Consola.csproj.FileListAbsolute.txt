@@ -1,0 +1,10 @@
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase11.Consola\bin\Debug\Clase11.Consola.exe.config
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase11.Consola\bin\Debug\Clase11.Consola.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase11.Consola\bin\Debug\Clase11.Consola.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase11.Consola\bin\Debug\Clase11.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase11.Consola\bin\Debug\Clase11.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase11.Consola\obj\Debug\Clase11.Consola.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase11.Consola\obj\Debug\Clase11.Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase11.Consola\obj\Debug\Clase11.Consola.csproj.CopyComplete
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase11.Consola\obj\Debug\Clase11.Consola.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase11.Consola\obj\Debug\Clase11.Consola.pdb

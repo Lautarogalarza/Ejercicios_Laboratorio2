@@ -1,0 +1,12 @@
+C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.WindowsForm\obj\Debug\CentralitaPolimorfismo.WindowsForm.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.WindowsForm\obj\Debug\CentralitaPolimorfismo.WindowsForm.Properties.Resources.resources
+C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.WindowsForm\obj\Debug\CentralitaPolimorfismo.WindowsForm.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.WindowsForm\obj\Debug\CentralitaPolimorfismo.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.WindowsForm\bin\Debug\CentralitaPolimorfismo.WindowsForm.exe.config
+C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.WindowsForm\bin\Debug\CentralitaPolimorfismo.WindowsForm.exe
+C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.WindowsForm\bin\Debug\CentralitaPolimorfismo.WindowsForm.pdb
+C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.WindowsForm\bin\Debug\CentralitaPolimorfismo.Entidades.dll
+C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.WindowsForm\bin\Debug\CentralitaPolimorfismo.Entidades.pdb
+C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.WindowsForm\obj\Debug\CentralitaPolimorfismo.WindowsForm.csproj.CopyComplete
+C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.WindowsForm\obj\Debug\CentralitaPolimorfismo.WindowsForm.exe
+C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.WindowsForm\obj\Debug\CentralitaPolimorfismo.WindowsForm.pdb
