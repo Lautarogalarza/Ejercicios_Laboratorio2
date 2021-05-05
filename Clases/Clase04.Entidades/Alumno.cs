@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clases04.Entidades
+namespace Clase04.Entidades
 {
     public class Alumno
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Clases04.Entidades;
+using Clase04.Entidades;
 
 namespace Clase04.Consola
 {

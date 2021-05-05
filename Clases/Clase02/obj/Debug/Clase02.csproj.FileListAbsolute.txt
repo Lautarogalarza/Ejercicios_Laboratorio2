@@ -5,3 +5,9 @@ C:\Users\lauta\source\repos\Clases\Clase02\obj\Debug\Clase02.csprojAssemblyRefer
 C:\Users\lauta\source\repos\Clases\Clase02\obj\Debug\Clase02.csproj.CoreCompileInputs.cache
 C:\Users\lauta\source\repos\Clases\Clase02\obj\Debug\Clase02.exe
 C:\Users\lauta\source\repos\Clases\Clase02\obj\Debug\Clase02.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase02\bin\Debug\Clase02.exe.config
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase02\bin\Debug\Clase02.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase02\bin\Debug\Clase02.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase02\obj\Debug\Clase02.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase02\obj\Debug\Clase02.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase02\obj\Debug\Clase02.pdb
