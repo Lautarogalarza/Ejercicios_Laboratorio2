@@ -1,0 +1,6 @@
+C:\Users\lauta\source\repos\CentralTelefonica\CentralitaExcepciones.Entidades\bin\Debug\CentralitaExcepciones.Entidades.dll
+C:\Users\lauta\source\repos\CentralTelefonica\CentralitaExcepciones.Entidades\bin\Debug\CentralitaExcepciones.Entidades.pdb
+C:\Users\lauta\source\repos\CentralTelefonica\CentralitaExcepciones.Entidades\obj\Debug\CentralitaExcepciones.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\CentralTelefonica\CentralitaExcepciones.Entidades\obj\Debug\CentralitaExcepciones.Entidades.dll
+C:\Users\lauta\source\repos\CentralTelefonica\CentralitaExcepciones.Entidades\obj\Debug\CentralitaExcepciones.Entidades.pdb
+C:\Users\lauta\source\repos\CentralTelefonica\CentralitaExcepciones.Entidades\obj\Debug\CentralitaExcepciones.Entidades.csprojAssemblyReference.cache
