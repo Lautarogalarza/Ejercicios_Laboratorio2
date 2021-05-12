@@ -8,3 +8,4 @@ C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio34
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio34.Entidades\obj\Debug\Ejercicio34.Entidades.csproj.CoreCompileInputs.cache
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio34.Entidades\obj\Debug\Ejercicio34.Entidades.dll
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio34.Entidades\obj\Debug\Ejercicio34.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio34.Entidades\obj\Debug\Ejercicio34.Entidades.csprojAssemblyReference.cache

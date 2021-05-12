@@ -41,9 +41,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_Herencia.WindowsF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_Herencia.Consola", "Ejercicio_Herencia.Consola\Ejercicio_Herencia.Consola.csproj", "{2FF41445-DE16-4F2E-B9C2-023250DA2675}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio42.Entidades", "Ejercicio42.Entidades\Ejercicio42.Entidades.csproj", "{907ECBFF-1E62-4310-8A72-96EA50FE72E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio42.Entidades", "Ejercicio42.Entidades\Ejercicio42.Entidades.csproj", "{907ECBFF-1E62-4310-8A72-96EA50FE72E5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio42.Consola", "Ejercicio42.Consola\Ejercicio42.Consola.csproj", "{6503F11D-590E-4D4F-B3A9-92FBB0489345}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio48.Consola", "Ejercicio48.Consola\Ejercicio48.Consola.csproj", "{6E9564F6-229C-4260-8F3B-2C2004C8CB85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio48.Entidades", "Ejercicio48.Entidades\Ejercicio48.Entidades.csproj", "{87627C01-DD25-4BF6-83AF-307D80D8849A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +139,14 @@ Global
 		{6503F11D-590E-4D4F-B3A9-92FBB0489345}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6503F11D-590E-4D4F-B3A9-92FBB0489345}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6503F11D-590E-4D4F-B3A9-92FBB0489345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E9564F6-229C-4260-8F3B-2C2004C8CB85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9564F6-229C-4260-8F3B-2C2004C8CB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9564F6-229C-4260-8F3B-2C2004C8CB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9564F6-229C-4260-8F3B-2C2004C8CB85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87627C01-DD25-4BF6-83AF-307D80D8849A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87627C01-DD25-4BF6-83AF-307D80D8849A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87627C01-DD25-4BF6-83AF-307D80D8849A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87627C01-DD25-4BF6-83AF-307D80D8849A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

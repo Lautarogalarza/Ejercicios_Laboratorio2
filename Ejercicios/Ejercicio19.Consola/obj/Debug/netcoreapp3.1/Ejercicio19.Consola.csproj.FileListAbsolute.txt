@@ -10,3 +10,4 @@ C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\obj\Debug\netcoreapp3.1\Ejercicio19.Consola.dll
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\obj\Debug\netcoreapp3.1\Ejercicio19.Consola.pdb
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\obj\Debug\netcoreapp3.1\Ejercicio19.Consola.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\obj\Debug\netcoreapp3.1\Ejercicio19.Consola.csprojAssemblyReference.cache

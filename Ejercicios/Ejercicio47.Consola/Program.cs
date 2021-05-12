@@ -22,6 +22,7 @@ namespace Ejercicio47.Consola
             EquipoFutbol eqFut1 = new EquipoFutbol("Manchester", fechaEq1);
             EquipoFutbol eqFut2 = new EquipoFutbol("Barcelona", fechaEq2);
             EquipoFutbol eqFut3 = new EquipoFutbol("Liverpool", fechaEq3);
+
             EquipoBasket eqBas1 = new EquipoBasket("Lakers", fechaEq4);
             EquipoBasket eqBas2 = new EquipoBasket("Bulls", fechaEq5);
             EquipoBasket eqBas3 = new EquipoBasket("Sixers", fechaEq6);
@@ -36,6 +37,8 @@ namespace Ejercicio47.Consola
 
             Console.WriteLine(torneoF.Mostrar());
             Console.WriteLine(torneoB.Mostrar());
+
+            Console.WriteLine("***RESULTADOS***");
 
             Console.WriteLine(torneoF.JugarPartido);
             Console.WriteLine(torneoF.JugarPartido);

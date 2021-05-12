@@ -36,10 +36,13 @@ namespace Ejercicio47.Entidades
 
         public string Ficha()
         {
-            return this.nombre + "Fundado el " + this.fechaCreacion;
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendFormat("Equipo: {0}\n",this.nombre);
+            sb.AppendFormat("Fundado el: {0}", this.GetFechaCreacion.ToString("dd/MM/yyyy"));
+
+            return sb.ToString();
         }
-
-
 
     }
 }

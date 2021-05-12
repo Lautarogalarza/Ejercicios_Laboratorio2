@@ -12,7 +12,6 @@ namespace Ejercicio47.Entidades
         private List<T> equipos = new List<T>();
         private string nombre;
 
-
         public string JugarPartido
         {
             get
@@ -61,7 +60,7 @@ namespace Ejercicio47.Entidades
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("TORNEO: {0}\n", this.nombre);
+            sb.AppendFormat("TORNEO: {0}\n\n", this.nombre);
 
             foreach (T item in this.equipos)
             {
@@ -80,7 +79,7 @@ namespace Ejercicio47.Entidades
 
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("{0} {1} - {2} {3} ", equipo1.GetNombre, resultado1, equipo2.GetNombre, resultado2);
+            sb.AppendFormat("{0} {1} - {2} {3} ", equipo1.GetNombre, resultado1, resultado2, equipo2.GetNombre);
 
             return sb.ToString();
         }

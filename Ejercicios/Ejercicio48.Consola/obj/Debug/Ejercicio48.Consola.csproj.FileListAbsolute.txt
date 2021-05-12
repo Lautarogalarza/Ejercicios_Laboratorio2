@@ -1,0 +1,10 @@
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio48.Consola\bin\Debug\Ejercicio48.Consola.exe.config
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio48.Consola\bin\Debug\Ejercicio48.Consola.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio48.Consola\bin\Debug\Ejercicio48.Consola.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio48.Consola\bin\Debug\Ejercicio48.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio48.Consola\bin\Debug\Ejercicio48.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio48.Consola\obj\Debug\Ejercicio48.Consola.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio48.Consola\obj\Debug\Ejercicio48.Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio48.Consola\obj\Debug\Ejercicio48.Consola.csproj.CopyComplete
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio48.Consola\obj\Debug\Ejercicio48.Consola.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio48.Consola\obj\Debug\Ejercicio48.Consola.pdb

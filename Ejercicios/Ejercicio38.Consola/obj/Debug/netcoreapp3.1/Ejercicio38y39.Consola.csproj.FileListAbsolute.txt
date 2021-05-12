@@ -22,3 +22,4 @@ C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio38
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio38.Consola\obj\Debug\netcoreapp3.1\Ejercicio38y39.Consola.dll
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio38.Consola\obj\Debug\netcoreapp3.1\Ejercicio38y39.Consola.pdb
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio38.Consola\obj\Debug\netcoreapp3.1\Ejercicio38y39.Consola.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio38.Consola\obj\Debug\netcoreapp3.1\Ejercicio38y39.Consola.csprojAssemblyReference.cache

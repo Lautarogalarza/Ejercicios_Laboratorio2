@@ -11,4 +11,3 @@ C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio73
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio73.Consola\obj\Debug\Ejercicio73.Consola.csproj.CoreCompileInputs.cache
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio73.Consola\obj\Debug\Ejercicio73.Consola.exe
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio73.Consola\obj\Debug\Ejercicio73.Consola.pdb
-C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio73.Consola\obj\Debug\Ejercicio73.Consola.csprojAssemblyReference.cache
