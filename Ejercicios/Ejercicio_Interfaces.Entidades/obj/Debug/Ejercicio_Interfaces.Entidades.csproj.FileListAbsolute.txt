@@ -1,0 +1,6 @@
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Entidades\bin\Debug\Ejercicio_Interfaces.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Entidades\bin\Debug\Ejercicio_Interfaces.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Entidades\obj\Debug\Ejercicio_Interfaces.Entidades.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Entidades\obj\Debug\Ejercicio_Interfaces.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Entidades\obj\Debug\Ejercicio_Interfaces.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Entidades\obj\Debug\Ejercicio_Interfaces.Entidades.pdb

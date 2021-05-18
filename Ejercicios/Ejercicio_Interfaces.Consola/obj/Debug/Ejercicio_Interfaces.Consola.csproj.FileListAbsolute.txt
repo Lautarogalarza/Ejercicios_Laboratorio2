@@ -1,0 +1,10 @@
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Consola\bin\Debug\Ejercicio_Interfaces.Consola.exe.config
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Consola\bin\Debug\Ejercicio_Interfaces.Consola.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Consola\bin\Debug\Ejercicio_Interfaces.Consola.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Consola\bin\Debug\Ejercicio_Interfaces.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Consola\bin\Debug\Ejercicio_Interfaces.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Consola\obj\Debug\Ejercicio_Interfaces.Consola.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Consola\obj\Debug\Ejercicio_Interfaces.Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Consola\obj\Debug\Ejercicio_Interfaces.Consola.csproj.CopyComplete
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Consola\obj\Debug\Ejercicio_Interfaces.Consola.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Interfaces.Consola\obj\Debug\Ejercicio_Interfaces.Consola.pdb

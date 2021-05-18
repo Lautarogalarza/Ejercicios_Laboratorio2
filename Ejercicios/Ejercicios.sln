@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio48.Consola", "Ejer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio48.Entidades", "Ejercicio48.Entidades\Ejercicio48.Entidades.csproj", "{87627C01-DD25-4BF6-83AF-307D80D8849A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_Interfaces.Entidades", "Ejercicio_Interfaces.Entidades\Ejercicio_Interfaces.Entidades.csproj", "{473338B0-6E42-4CD4-8AFA-61E1F95F6BBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_Interfaces.Consola", "Ejercicio_Interfaces.Consola\Ejercicio_Interfaces.Consola.csproj", "{052DC4B8-E244-4393-B7CC-2A04EB9E99EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{87627C01-DD25-4BF6-83AF-307D80D8849A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87627C01-DD25-4BF6-83AF-307D80D8849A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87627C01-DD25-4BF6-83AF-307D80D8849A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473338B0-6E42-4CD4-8AFA-61E1F95F6BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473338B0-6E42-4CD4-8AFA-61E1F95F6BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473338B0-6E42-4CD4-8AFA-61E1F95F6BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473338B0-6E42-4CD4-8AFA-61E1F95F6BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{052DC4B8-E244-4393-B7CC-2A04EB9E99EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052DC4B8-E244-4393-B7CC-2A04EB9E99EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052DC4B8-E244-4393-B7CC-2A04EB9E99EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052DC4B8-E244-4393-B7CC-2A04EB9E99EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
