@@ -1,6 +1,0 @@
-C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Entidades\bin\Debug\Ejercicio_Herencia.Entidades.dll
-C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Entidades\bin\Debug\Ejercicio_Herencia.Entidades.pdb
-C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Entidades\obj\Debug\Ejercicio_Herencia.Entidades.csproj.CoreCompileInputs.cache
-C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Entidades\obj\Debug\Ejercicio_Herencia.Entidades.dll
-C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Entidades\obj\Debug\Ejercicio_Herencia.Entidades.pdb
-C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio_Herencia.Entidades\obj\Debug\Ejercicio_Herencia.Entidades.csprojAssemblyReference.cache

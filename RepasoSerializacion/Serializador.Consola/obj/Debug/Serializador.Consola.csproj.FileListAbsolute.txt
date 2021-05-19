@@ -1,0 +1,10 @@
+C:\Users\lauta\source\repos\EjemploXmlEntidades\Serializador.Consola\bin\Debug\Serializador.Consola.exe.config
+C:\Users\lauta\source\repos\EjemploXmlEntidades\Serializador.Consola\bin\Debug\Serializador.Consola.exe
+C:\Users\lauta\source\repos\EjemploXmlEntidades\Serializador.Consola\bin\Debug\Serializador.Consola.pdb
+C:\Users\lauta\source\repos\EjemploXmlEntidades\Serializador.Consola\bin\Debug\serializadora.Entidades.dll
+C:\Users\lauta\source\repos\EjemploXmlEntidades\Serializador.Consola\bin\Debug\serializadora.Entidades.pdb
+C:\Users\lauta\source\repos\EjemploXmlEntidades\Serializador.Consola\obj\Debug\Serializador.Consola.csprojAssemblyReference.cache
+C:\Users\lauta\source\repos\EjemploXmlEntidades\Serializador.Consola\obj\Debug\Serializador.Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\EjemploXmlEntidades\Serializador.Consola\obj\Debug\Serializador.Consola.csproj.CopyComplete
+C:\Users\lauta\source\repos\EjemploXmlEntidades\Serializador.Consola\obj\Debug\Serializador.Consola.exe
+C:\Users\lauta\source\repos\EjemploXmlEntidades\Serializador.Consola\obj\Debug\Serializador.Consola.pdb

@@ -1,0 +1,5 @@
+C:\Users\lauta\source\repos\EjemploXmlEntidades\serializadora.Entidades\bin\Debug\serializadora.Entidades.dll
+C:\Users\lauta\source\repos\EjemploXmlEntidades\serializadora.Entidades\bin\Debug\serializadora.Entidades.pdb
+C:\Users\lauta\source\repos\EjemploXmlEntidades\serializadora.Entidades\obj\Debug\serializadora.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\EjemploXmlEntidades\serializadora.Entidades\obj\Debug\serializadora.Entidades.dll
+C:\Users\lauta\source\repos\EjemploXmlEntidades\serializadora.Entidades\obj\Debug\serializadora.Entidades.pdb
