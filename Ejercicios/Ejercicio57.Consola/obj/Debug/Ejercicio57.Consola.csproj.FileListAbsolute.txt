@@ -11,3 +11,9 @@ C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio57
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio57.Consola\obj\Debug\Ejercicio57.Consola.csproj.CoreCompileInputs.cache
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio57.Consola\obj\Debug\Ejercicio57.Consola.exe
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio57.Consola\obj\Debug\Ejercicio57.Consola.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio57.Consola\bin\Debug\Ejercicio57.Consola.exe.config
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio57.Consola\bin\Debug\Ejercicio57.Consola.exe
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio57.Consola\bin\Debug\Ejercicio57.Consola.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio57.Consola\obj\Debug\Ejercicio57.Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio57.Consola\obj\Debug\Ejercicio57.Consola.exe
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio57.Consola\obj\Debug\Ejercicio57.Consola.pdb

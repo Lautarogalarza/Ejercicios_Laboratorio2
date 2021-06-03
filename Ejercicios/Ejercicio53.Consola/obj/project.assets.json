@@ -31,11 +31,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\Ejercicio53.Consola.csproj",
+      "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\Ejercicio53.Consola.csproj",
       "projectName": "Ejercicio53.Consola",
-      "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\Ejercicio53.Consola.csproj",
+      "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\Ejercicio53.Consola.csproj",
       "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\obj\\",
+      "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,8 +51,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Entidades\\Ejercicio53.Entidades.csproj": {
-              "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Entidades\\Ejercicio53.Entidades.csproj"
+            "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Entidades\\Ejercicio53.Entidades.csproj": {
+              "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Entidades\\Ejercicio53.Entidades.csproj"
             }
           }
         }

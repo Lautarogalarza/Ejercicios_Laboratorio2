@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio42.Entidades\\Ejercicio42.Entidades.csproj": {}
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio42.Entidades\\Ejercicio42.Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio42.Entidades\\Ejercicio42.Entidades.csproj": {
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio42.Entidades\\Ejercicio42.Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio42.Entidades\\Ejercicio42.Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio42.Entidades\\Ejercicio42.Entidades.csproj",
         "projectName": "Ejercicio42.Entidades",
-        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio42.Entidades\\Ejercicio42.Entidades.csproj",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio42.Entidades\\Ejercicio42.Entidades.csproj",
         "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio42.Entidades\\obj\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio42.Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",

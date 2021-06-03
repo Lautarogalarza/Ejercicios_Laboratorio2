@@ -18,3 +18,13 @@ C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio18
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio18.Consola\obj\Debug\Ejercicio18.Consola.csproj.CopyComplete
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio18.Consola\obj\Debug\Ejercicio18.Consola.exe
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio18.Consola\obj\Debug\Ejercicio18.Consola.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio18.Consola\bin\Debug\Ejercicio18.Consola.exe.config
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio18.Consola\bin\Debug\Ejercicio18.Consola.exe
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio18.Consola\bin\Debug\Ejercicio18.Consola.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio18.Consola\bin\Debug\Ejercicio18.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio18.Consola\bin\Debug\Ejercicio18.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio18.Consola\obj\Debug\Ejercicio18.Consola.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio18.Consola\obj\Debug\Ejercicio18.Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio18.Consola\obj\Debug\Ejercicio18.Consola.csproj.CopyComplete
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio18.Consola\obj\Debug\Ejercicio18.Consola.exe
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio18.Consola\obj\Debug\Ejercicio18.Consola.pdb
