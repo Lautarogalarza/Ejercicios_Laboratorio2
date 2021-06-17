@@ -1,0 +1,6 @@
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Entidades\bin\Debug\Entidades.dll
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Entidades\obj\Debug\Entidades.dll
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache

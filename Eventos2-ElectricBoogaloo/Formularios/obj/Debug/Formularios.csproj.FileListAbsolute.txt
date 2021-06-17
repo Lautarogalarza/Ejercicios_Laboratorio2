@@ -1,0 +1,13 @@
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Formularios\bin\Debug\Formularios.exe
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Formularios\bin\Debug\Formularios.pdb
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Formularios\bin\Debug\Entidades.dll
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Formularios\bin\Debug\Entidades.pdb
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Formularios\obj\Debug\Formularios.FrmPrincipal.resources
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Formularios\obj\Debug\Formularios.exe
+C:\Users\lauta\source\repos\Eventos2-ElectricBoogaloo\Formularios\obj\Debug\Formularios.pdb
