@@ -11,3 +11,16 @@ C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\obj\Debug\netcoreapp3.1\Ejercicio19.Consola.pdb
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\obj\Debug\netcoreapp3.1\Ejercicio19.Consola.genruntimeconfig.cache
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\obj\Debug\netcoreapp3.1\Ejercicio19.Consola.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\bin\Debug\netcoreapp3.1\Ejercicio19.Consola.exe
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\bin\Debug\netcoreapp3.1\Ejercicio19.Consola.deps.json
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\bin\Debug\netcoreapp3.1\Ejercicio19.Consola.runtimeconfig.json
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\bin\Debug\netcoreapp3.1\Ejercicio19.Consola.runtimeconfig.dev.json
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\bin\Debug\netcoreapp3.1\Ejercicio19.Consola.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\bin\Debug\netcoreapp3.1\Ejercicio19.Consola.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\obj\Debug\netcoreapp3.1\Ejercicio19.Consola.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\obj\Debug\netcoreapp3.1\Ejercicio19.Consola.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\obj\Debug\netcoreapp3.1\Ejercicio19.Consola.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\obj\Debug\netcoreapp3.1\Ejercicio19.Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\obj\Debug\netcoreapp3.1\Ejercicio19.Consola.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\obj\Debug\netcoreapp3.1\Ejercicio19.Consola.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio19.Consola\obj\Debug\netcoreapp3.1\Ejercicio19.Consola.genruntimeconfig.cache

@@ -10,11 +10,13 @@ namespace Ejercicio61.Entidades
 {
     public class PersonaDAO
     {
+
+        private static string connectionString = @"Data Source=.\SQLEXPRESS;Initial Catalog=EjerciciosUTN;Integrated Security=True";
         public static void Guardar(Persona persona)
         {
             try
             {
-                using (SqlConnection sqlConnection = new SqlConnection(Properties.Settings.Default.Conexion))
+                using (SqlConnection sqlConnection = new SqlConnection(connectionString))
                 {
                     sqlConnection.Open();
                     SqlCommand comando = new SqlCommand();
@@ -42,7 +44,7 @@ namespace Ejercicio61.Entidades
             Persona persona =  null;
             try
             {
-                using (SqlConnection sqlConnection = new SqlConnection(Properties.Settings.Default.Conexion))
+                using (SqlConnection sqlConnection = new SqlConnection(connectionString))
                 {
                     sqlConnection.Open();
                     SqlCommand comando = new SqlCommand();
@@ -75,7 +77,7 @@ namespace Ejercicio61.Entidades
             List<Persona> personas = new List<Persona>();
             try
             {
-                using (SqlConnection sqlConnection = new SqlConnection(Properties.Settings.Default.Conexion))
+                using (SqlConnection sqlConnection = new SqlConnection(connectionString))
                 {
                     sqlConnection.Open();
                     SqlCommand comando = new SqlCommand();
@@ -108,7 +110,7 @@ namespace Ejercicio61.Entidades
         {
             try
             {
-                using (SqlConnection sqlConnection = new SqlConnection(Properties.Settings.Default.Conexion))
+                using (SqlConnection sqlConnection = new SqlConnection(connectionString))
                 {
                     sqlConnection.Open();
                     SqlCommand comando = new SqlCommand();
@@ -131,7 +133,7 @@ namespace Ejercicio61.Entidades
         {
             try
             {
-                using (SqlConnection sqlConnection = new SqlConnection(Properties.Settings.Default.Conexion))
+                using (SqlConnection sqlConnection = new SqlConnection(connectionString))
                 {
                     sqlConnection.Open();
                     SqlCommand comando = new SqlCommand();

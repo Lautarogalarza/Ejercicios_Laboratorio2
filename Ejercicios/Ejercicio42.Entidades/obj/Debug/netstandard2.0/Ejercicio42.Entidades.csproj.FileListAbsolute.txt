@@ -7,3 +7,12 @@ C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.csproj.CoreCompileInputs.cache
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.dll
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\bin\Debug\netstandard2.0\Ejercicio42.Entidades.deps.json
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\bin\Debug\netstandard2.0\Ejercicio42.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\bin\Debug\netstandard2.0\Ejercicio42.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.pdb
