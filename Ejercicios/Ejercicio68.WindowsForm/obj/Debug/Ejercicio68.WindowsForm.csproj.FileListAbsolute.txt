@@ -1,0 +1,13 @@
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio68.WindowsForm\bin\Debug\Ejercicio68.WindowsForm.exe.config
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio68.WindowsForm\bin\Debug\Ejercicio68.WindowsForm.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio68.WindowsForm\bin\Debug\Ejercicio68.WindowsForm.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio68.WindowsForm\bin\Debug\Ejercicio68.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio68.WindowsForm\bin\Debug\Ejercicio68.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio68.WindowsForm\obj\Debug\Ejercicio68.WindowsForm.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio68.WindowsForm\obj\Debug\Ejercicio68.WindowsForm.FrmPersona.resources
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio68.WindowsForm\obj\Debug\Ejercicio68.WindowsForm.Properties.Resources.resources
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio68.WindowsForm\obj\Debug\Ejercicio68.WindowsForm.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio68.WindowsForm\obj\Debug\Ejercicio68.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio68.WindowsForm\obj\Debug\Ejercicio68.WindowsForm.csproj.CopyComplete
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio68.WindowsForm\obj\Debug\Ejercicio68.WindowsForm.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio68.WindowsForm\obj\Debug\Ejercicio68.WindowsForm.pdb

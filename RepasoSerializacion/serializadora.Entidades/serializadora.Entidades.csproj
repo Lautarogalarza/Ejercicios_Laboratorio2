@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Alumno.cs" />
+    <Compile Include="Customer.cs" />
+    <Compile Include="Entity.cs" />
     <Compile Include="MisExcepciones.cs" />
     <Compile Include="Persona.cs" />
     <Compile Include="Serializadora.cs" />

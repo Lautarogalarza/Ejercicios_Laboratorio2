@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_Interfaces.Entida
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_Interfaces.Consola", "Ejercicio_Interfaces.Consola\Ejercicio_Interfaces.Consola.csproj", "{052DC4B8-E244-4393-B7CC-2A04EB9E99EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio68.Entidades", "Ejercicio68.Entidades\Ejercicio68.Entidades.csproj", "{D9EAAFF6-AD0D-4021-B796-5E38891D4572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio68.WindowsForm", "Ejercicio68.WindowsForm\Ejercicio68.WindowsForm.csproj", "{455E489D-D6FC-4673-ABA4-41ACE85EE108}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{052DC4B8-E244-4393-B7CC-2A04EB9E99EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{052DC4B8-E244-4393-B7CC-2A04EB9E99EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{052DC4B8-E244-4393-B7CC-2A04EB9E99EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9EAAFF6-AD0D-4021-B796-5E38891D4572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EAAFF6-AD0D-4021-B796-5E38891D4572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EAAFF6-AD0D-4021-B796-5E38891D4572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EAAFF6-AD0D-4021-B796-5E38891D4572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{455E489D-D6FC-4673-ABA4-41ACE85EE108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455E489D-D6FC-4673-ABA4-41ACE85EE108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455E489D-D6FC-4673-ABA4-41ACE85EE108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455E489D-D6FC-4673-ABA4-41ACE85EE108}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

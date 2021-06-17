@@ -11,21 +11,34 @@ namespace Serializador.Consola
     {
         static void Main(string[] args)
         {
-            Persona persona = new Persona("Esteban", "Prieto", 30);
-            Alumno alumno = new Alumno();
-            //Persona persona1 = new Persona("Lautaro", "Lautaro", 23);
-            //Persona persona2 = new Persona("Mauricio", "Cerizza", 30);
+            //Persona persona = new Persona("Esteban", "Prieto", 30);
+            //Alumno alumno = new Alumno();
+            ////Persona persona1 = new Persona("Lautaro", "Lautaro", 23);
+            ////Persona persona2 = new Persona("Mauricio", "Cerizza", 30);
 
             Serializadora serializadora = new Serializadora();
 
-            //List<Persona> personas = new List<Persona>();
+            List<Customer> customers = new List<Customer>();
 
-            //personas.Add(persona);
-            //personas.Add(persona1);
-            //personas.Add(persona2);
+            customers.Add(new Customer("Jon", "Snow", 22, 100));
+            customers.Add(new Customer("Ned", "Stark", 23, 101));
+            customers.Add(new Customer("Bran", "Stark", 24, 102));
+            customers.Add(new Customer("Arya", "Stark", 31, 103));
+            customers.Add(new Customer("Tyrion", "Lannister", 25, 104));
+            customers.Add(new Customer("Tywin", "Lannister", 26, 105));
+            customers.Add(new Customer("Jaime", "Lannister", 27, 106));
+            customers.Add(new Customer("Cersei", "Lannister", 28, 107));
+            customers.Add(new Customer("Rhaegar ", "Targaryen", 29, 108));
+            customers.Add(new Customer("Daenerys", "Targaryen", 30, 109));
+
+            //////List<Persona> personas = new List<Persona>();
+
+            //////personas.Add(persona);
+            //////personas.Add(persona1);
+            //////personas.Add(persona2);
 
 
-            if (serializadora.Guardar(alumno))
+            if (serializadora.Guardar(customers))
             {
                 Console.WriteLine("Archivo Guardado exitosamente");
             }
@@ -35,11 +48,11 @@ namespace Serializador.Consola
             }
 
 
-            Persona personasDeserializadas = serializadora.Leer();
+            List<Customer> personasDeserializadas = serializadora.Leer();
 
             if (personasDeserializadas != null)
             {
-                Console.WriteLine(personasDeserializadas.Mostrar());
+                //Console.WriteLine(personasDeserializadas.Mostrar());
 
                 //foreach (Persona item in personasDeserializadas)
                 //{

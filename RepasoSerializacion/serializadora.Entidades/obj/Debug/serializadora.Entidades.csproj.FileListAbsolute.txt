@@ -3,3 +3,9 @@ C:\Users\lauta\source\repos\EjemploXmlEntidades\serializadora.Entidades\bin\Debu
 C:\Users\lauta\source\repos\EjemploXmlEntidades\serializadora.Entidades\obj\Debug\serializadora.Entidades.csproj.CoreCompileInputs.cache
 C:\Users\lauta\source\repos\EjemploXmlEntidades\serializadora.Entidades\obj\Debug\serializadora.Entidades.dll
 C:\Users\lauta\source\repos\EjemploXmlEntidades\serializadora.Entidades\obj\Debug\serializadora.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\RepasoSerializacion\serializadora.Entidades\bin\Debug\serializadora.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\RepasoSerializacion\serializadora.Entidades\bin\Debug\serializadora.Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\RepasoSerializacion\serializadora.Entidades\obj\Debug\serializadora.Entidades.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\RepasoSerializacion\serializadora.Entidades\obj\Debug\serializadora.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\RepasoSerializacion\serializadora.Entidades\obj\Debug\serializadora.Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\RepasoSerializacion\serializadora.Entidades\obj\Debug\serializadora.Entidades.pdb
