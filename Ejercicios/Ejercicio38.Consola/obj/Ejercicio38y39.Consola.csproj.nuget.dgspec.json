@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio38.Consola\\Ejercicio38y39.Consola.csproj": {}
+    "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio38.Consola\\Ejercicio38y39.Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio38.Consola\\Ejercicio38y39.Consola.csproj": {
+    "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio38.Consola\\Ejercicio38y39.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio38.Consola\\Ejercicio38y39.Consola.csproj",
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio38.Consola\\Ejercicio38y39.Consola.csproj",
         "projectName": "Ejercicio38y39.Consola",
-        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio38.Consola\\Ejercicio38y39.Consola.csproj",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio38.Consola\\Ejercicio38y39.Consola.csproj",
         "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio38.Consola\\obj\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio38.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",

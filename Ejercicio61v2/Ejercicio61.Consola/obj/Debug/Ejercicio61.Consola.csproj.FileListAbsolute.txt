@@ -1,0 +1,10 @@
+C:\Users\lauta\source\repos\Ejercicio61.Entidades\Ejercicio61.Consola\bin\Debug\Ejercicio61.Consola.exe.config
+C:\Users\lauta\source\repos\Ejercicio61.Entidades\Ejercicio61.Consola\bin\Debug\Ejercicio61.Consola.exe
+C:\Users\lauta\source\repos\Ejercicio61.Entidades\Ejercicio61.Consola\bin\Debug\Ejercicio61.Consola.pdb
+C:\Users\lauta\source\repos\Ejercicio61.Entidades\Ejercicio61.Consola\bin\Debug\Ejercicio61.Entidades.dll
+C:\Users\lauta\source\repos\Ejercicio61.Entidades\Ejercicio61.Consola\bin\Debug\Ejercicio61.Entidades.pdb
+C:\Users\lauta\source\repos\Ejercicio61.Entidades\Ejercicio61.Consola\obj\Debug\Ejercicio61.Consola.csprojAssemblyReference.cache
+C:\Users\lauta\source\repos\Ejercicio61.Entidades\Ejercicio61.Consola\obj\Debug\Ejercicio61.Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Ejercicio61.Entidades\Ejercicio61.Consola\obj\Debug\Ejercicio61.Consola.csproj.CopyComplete
+C:\Users\lauta\source\repos\Ejercicio61.Entidades\Ejercicio61.Consola\obj\Debug\Ejercicio61.Consola.exe
+C:\Users\lauta\source\repos\Ejercicio61.Entidades\Ejercicio61.Consola\obj\Debug\Ejercicio61.Consola.pdb
