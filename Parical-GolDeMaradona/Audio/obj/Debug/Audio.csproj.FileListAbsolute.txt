@@ -1,0 +1,22 @@
+J:\Visual UTN 2019\Examenes\20201203\Audio\bin\Debug\Audio.dll
+J:\Visual UTN 2019\Examenes\20201203\Audio\bin\Debug\Audio.pdb
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.csprojAssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Interop.WMPLib.dll
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.csproj.ResolveComReference.cache
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.dll
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.pdb
+C:\Users\lauta\Desktop\20201203 - alumno\Audio\bin\Debug\Audio.dll
+C:\Users\lauta\Desktop\20201203 - alumno\Audio\bin\Debug\Audio.pdb
+C:\Users\lauta\Desktop\20201203 - alumno\Audio\obj\Debug\Interop.WMPLib.dll
+C:\Users\lauta\Desktop\20201203 - alumno\Audio\obj\Debug\Audio.csproj.ResolveComReference.cache
+C:\Users\lauta\Desktop\20201203 - alumno\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\20201203 - alumno\Audio\obj\Debug\Audio.dll
+C:\Users\lauta\Desktop\20201203 - alumno\Audio\obj\Debug\Audio.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Audio\bin\Debug\Audio.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Audio\bin\Debug\Audio.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Audio\obj\Debug\Interop.WMPLib.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Audio\obj\Debug\Audio.csproj.ResolveComReference.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Audio\obj\Debug\Audio.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Audio\obj\Debug\Audio.pdb

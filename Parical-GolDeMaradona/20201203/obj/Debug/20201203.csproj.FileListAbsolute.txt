@@ -1,0 +1,58 @@
+I:\UTN\Ejercicios\20201203\20201203\bin\Debug\20201203.exe.config
+I:\UTN\Ejercicios\20201203\20201203\bin\Debug\20201203.exe
+I:\UTN\Ejercicios\20201203\20201203\bin\Debug\20201203.pdb
+I:\UTN\Ejercicios\20201203\20201203\bin\Debug\Entidades.dll
+I:\UTN\Ejercicios\20201203\20201203\bin\Debug\Entidades.pdb
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\20201203.csprojAssemblyReference.cache
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\_20201203.D10S.resources
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\_20201203.Properties.Resources.resources
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\20201203.csproj.GenerateResource.cache
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\20201203.csproj.CoreCompileInputs.cache
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\20201203.csproj.CopyComplete
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\20201203.exe
+I:\UTN\Ejercicios\20201203\20201203\obj\Debug\20201203.pdb
+J:\Visual UTN 2019\Examenes\20201203\20201203\bin\Debug\20201203.exe.config
+J:\Visual UTN 2019\Examenes\20201203\20201203\bin\Debug\20201203.exe
+J:\Visual UTN 2019\Examenes\20201203\20201203\bin\Debug\20201203.pdb
+J:\Visual UTN 2019\Examenes\20201203\20201203\bin\Debug\Entidades.dll
+J:\Visual UTN 2019\Examenes\20201203\20201203\bin\Debug\Entidades.pdb
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\20201203.csprojAssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\_20201203.D10S.resources
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\_20201203.Properties.Resources.resources
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\20201203.csproj.GenerateResource.cache
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\20201203.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\20201203.csproj.CopyComplete
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\20201203.exe
+J:\Visual UTN 2019\Examenes\20201203\20201203\obj\Debug\20201203.pdb
+J:\Visual UTN 2019\Examenes\20201203\20201203\bin\Debug\Audio.dll
+J:\Visual UTN 2019\Examenes\20201203\20201203\bin\Debug\Audio.pdb
+C:\Users\lauta\Desktop\20201203 - alumno\20201203\bin\Debug\20201203.exe.config
+C:\Users\lauta\Desktop\20201203 - alumno\20201203\bin\Debug\20201203.exe
+C:\Users\lauta\Desktop\20201203 - alumno\20201203\bin\Debug\20201203.pdb
+C:\Users\lauta\Desktop\20201203 - alumno\20201203\bin\Debug\Audio.dll
+C:\Users\lauta\Desktop\20201203 - alumno\20201203\bin\Debug\Entidades.dll
+C:\Users\lauta\Desktop\20201203 - alumno\20201203\bin\Debug\Audio.pdb
+C:\Users\lauta\Desktop\20201203 - alumno\20201203\bin\Debug\Entidades.pdb
+C:\Users\lauta\Desktop\20201203 - alumno\20201203\obj\Debug\20201203.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\20201203 - alumno\20201203\obj\Debug\_20201203.D10S.resources
+C:\Users\lauta\Desktop\20201203 - alumno\20201203\obj\Debug\_20201203.Properties.Resources.resources
+C:\Users\lauta\Desktop\20201203 - alumno\20201203\obj\Debug\20201203.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\20201203 - alumno\20201203\obj\Debug\20201203.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\20201203 - alumno\20201203\obj\Debug\20201203.csproj.CopyComplete
+C:\Users\lauta\Desktop\20201203 - alumno\20201203\obj\Debug\20201203.exe
+C:\Users\lauta\Desktop\20201203 - alumno\20201203\obj\Debug\20201203.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\20201203\bin\Debug\20201203.exe.config
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\20201203\bin\Debug\20201203.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\20201203\bin\Debug\20201203.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\20201203\bin\Debug\Audio.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\20201203\bin\Debug\Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\20201203\bin\Debug\Audio.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\20201203\bin\Debug\Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\20201203\obj\Debug\20201203.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\20201203\obj\Debug\_20201203.D10S.resources
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\20201203\obj\Debug\_20201203.Properties.Resources.resources
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\20201203\obj\Debug\20201203.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\20201203\obj\Debug\20201203.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\20201203\obj\Debug\20201203.csproj.CopyComplete
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\20201203\obj\Debug\20201203.exe
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\20201203\obj\Debug\20201203.pdb

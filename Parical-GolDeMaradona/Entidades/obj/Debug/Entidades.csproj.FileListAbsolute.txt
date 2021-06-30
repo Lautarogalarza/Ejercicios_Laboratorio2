@@ -1,0 +1,18 @@
+C:\Users\lauta\Desktop\20201203 - alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\lauta\Desktop\20201203 - alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lauta\Desktop\20201203 - alumno\Entidades\bin\Debug\Audio.dll
+C:\Users\lauta\Desktop\20201203 - alumno\Entidades\bin\Debug\Audio.pdb
+C:\Users\lauta\Desktop\20201203 - alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\20201203 - alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\20201203 - alumno\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\lauta\Desktop\20201203 - alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\lauta\Desktop\20201203 - alumno\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Entidades\bin\Debug\Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Entidades\bin\Debug\Audio.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Entidades\bin\Debug\Audio.pdb
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Entidades\obj\Debug\Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\20201203-SP\Entidades\obj\Debug\Entidades.pdb
