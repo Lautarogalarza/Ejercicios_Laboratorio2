@@ -1,5 +1,0 @@
-C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.Entidades\bin\Debug\CentralitaPolimorfismo.Entidades.dll
-C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.Entidades\bin\Debug\CentralitaPolimorfismo.Entidades.pdb
-C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.Entidades\obj\Debug\CentralitaPolimorfismo.Entidades.csproj.CoreCompileInputs.cache
-C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.Entidades\obj\Debug\CentralitaPolimorfismo.Entidades.dll
-C:\Users\lauta\Desktop\CentralTelefonica\CentralitaPolimorfismo.Entidades\obj\Debug\CentralitaPolimorfismo.Entidades.pdb
