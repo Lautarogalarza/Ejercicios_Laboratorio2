@@ -1,0 +1,12 @@
+C:\Users\lauta\source\repos\Entidades\Clase04\bin\Debug\net5.0\Clase04.deps.json
+C:\Users\lauta\source\repos\Entidades\Clase04\bin\Debug\net5.0\Clase04.dll
+C:\Users\lauta\source\repos\Entidades\Clase04\bin\Debug\net5.0\ref\Clase04.dll
+C:\Users\lauta\source\repos\Entidades\Clase04\bin\Debug\net5.0\Clase04.pdb
+C:\Users\lauta\source\repos\Entidades\Clase04\obj\Debug\net5.0\Clase04.csproj.AssemblyReference.cache
+C:\Users\lauta\source\repos\Entidades\Clase04\obj\Debug\net5.0\Clase04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\source\repos\Entidades\Clase04\obj\Debug\net5.0\Clase04.AssemblyInfoInputs.cache
+C:\Users\lauta\source\repos\Entidades\Clase04\obj\Debug\net5.0\Clase04.AssemblyInfo.cs
+C:\Users\lauta\source\repos\Entidades\Clase04\obj\Debug\net5.0\Clase04.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Entidades\Clase04\obj\Debug\net5.0\Clase04.dll
+C:\Users\lauta\source\repos\Entidades\Clase04\obj\Debug\net5.0\ref\Clase04.dll
+C:\Users\lauta\source\repos\Entidades\Clase04\obj\Debug\net5.0\Clase04.pdb

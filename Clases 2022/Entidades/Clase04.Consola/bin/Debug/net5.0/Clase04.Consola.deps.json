@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase04.Consola/1.0.0": {
+        "dependencies": {
+          "Clase04": "1.0.0"
+        },
+        "runtime": {
+          "Clase04.Consola.dll": {}
+        }
+      },
+      "Clase04/1.0.0": {
+        "runtime": {
+          "Clase04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase04.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clase04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

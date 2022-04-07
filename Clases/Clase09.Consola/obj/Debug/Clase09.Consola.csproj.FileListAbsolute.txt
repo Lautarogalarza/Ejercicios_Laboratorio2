@@ -8,3 +8,13 @@ C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase09.Consola
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase09.Consola\obj\Debug\Clase09.Consola.csproj.CopyComplete
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase09.Consola\obj\Debug\Clase09.Consola.exe
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase09.Consola\obj\Debug\Clase09.Consola.pdb
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase09.Consola\bin\Debug\Clase09.Consola.exe.config
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase09.Consola\bin\Debug\Clase09.Consola.exe
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase09.Consola\bin\Debug\Clase09.Consola.pdb
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase09.Consola\bin\Debug\Clase09.Entidades.dll
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase09.Consola\bin\Debug\Clase09.Entidades.pdb
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase09.Consola\obj\Debug\Clase09.Consola.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase09.Consola\obj\Debug\Clase09.Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase09.Consola\obj\Debug\Clase09.Consola.csproj.CopyComplete
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase09.Consola\obj\Debug\Clase09.Consola.exe
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase09.Consola\obj\Debug\Clase09.Consola.pdb

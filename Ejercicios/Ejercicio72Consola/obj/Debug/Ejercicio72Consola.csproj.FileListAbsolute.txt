@@ -5,3 +5,9 @@ C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio72
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio72Consola\obj\Debug\Ejercicio72Consola.csproj.CoreCompileInputs.cache
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio72Consola\obj\Debug\Ejercicio72Consola.exe
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Ejercicios\Ejercicio72Consola\obj\Debug\Ejercicio72Consola.pdb
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Ejercicios\Ejercicio72Consola\bin\Debug\Ejercicio72Consola.exe.config
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Ejercicios\Ejercicio72Consola\bin\Debug\Ejercicio72Consola.exe
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Ejercicios\Ejercicio72Consola\bin\Debug\Ejercicio72Consola.pdb
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Ejercicios\Ejercicio72Consola\obj\Debug\Ejercicio72Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Ejercicios\Ejercicio72Consola\obj\Debug\Ejercicio72Consola.exe
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Ejercicios\Ejercicio72Consola\obj\Debug\Ejercicio72Consola.pdb

@@ -10,7 +10,8 @@ namespace Clase09.Entidades
     {
         public string catedra;
 
-        public Profesor(string nombre, string apellido, long dni, string catedra) : base(nombre, apellido, dni)
+        public Profesor(string nombre, string apellido, long dni, string catedra)
+        : base(nombre, apellido, dni)
         {
             this.catedra = catedra;
         }

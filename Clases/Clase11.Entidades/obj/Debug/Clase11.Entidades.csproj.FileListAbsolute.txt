@@ -4,3 +4,9 @@ C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase11.Entidad
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase11.Entidades\obj\Debug\Clase11.Entidades.csproj.CoreCompileInputs.cache
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase11.Entidades\obj\Debug\Clase11.Entidades.dll
 C:\Users\lauta\Desktop\Ejercicios\Ejercicios_Laboratorio2\Clases\Clase11.Entidades\obj\Debug\Clase11.Entidades.pdb
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase11.Entidades\bin\Debug\Clase11.Entidades.dll
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase11.Entidades\bin\Debug\Clase11.Entidades.pdb
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase11.Entidades\obj\Debug\Clase11.Entidades.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase11.Entidades\obj\Debug\Clase11.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase11.Entidades\obj\Debug\Clase11.Entidades.dll
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Clases\Clase11.Entidades\obj\Debug\Clase11.Entidades.pdb

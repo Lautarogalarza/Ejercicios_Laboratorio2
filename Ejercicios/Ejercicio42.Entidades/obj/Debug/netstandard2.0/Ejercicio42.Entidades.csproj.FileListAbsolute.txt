@@ -16,3 +16,12 @@ C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\
 C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.csproj.CoreCompileInputs.cache
 C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.dll
 C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.pdb
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\bin\Debug\netstandard2.0\Ejercicio42.Entidades.deps.json
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\bin\Debug\netstandard2.0\Ejercicio42.Entidades.dll
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\bin\Debug\netstandard2.0\Ejercicio42.Entidades.pdb
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.AssemblyInfo.cs
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.dll
+C:\Users\lauta\Desktop\PrograYLabo2\Ejercicios_Laboratorio2\Ejercicios\Ejercicio42.Entidades\obj\Debug\netstandard2.0\Ejercicio42.Entidades.pdb

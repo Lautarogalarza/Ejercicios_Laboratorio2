@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio19.Consola\\Ejercicio19.Consola.csproj",
+      "projectUniqueName": "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio19.Consola\\Ejercicio19.Consola.csproj",
       "projectName": "Ejercicio19.Consola",
-      "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio19.Consola\\Ejercicio19.Consola.csproj",
+      "projectPath": "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio19.Consola\\Ejercicio19.Consola.csproj",
       "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio19.Consola\\obj\\",
+      "outputPath": "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio19.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -68,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
