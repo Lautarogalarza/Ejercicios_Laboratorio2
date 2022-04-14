@@ -1,0 +1,16 @@
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\bin\Debug\net5.0\Clase06.Consola.exe
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\bin\Debug\net5.0\Clase06.Consola.deps.json
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\bin\Debug\net5.0\Clase06.Consola.runtimeconfig.json
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\bin\Debug\net5.0\Clase06.Consola.runtimeconfig.dev.json
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\bin\Debug\net5.0\Clase06.Consola.dll
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\bin\Debug\net5.0\ref\Clase06.Consola.dll
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\bin\Debug\net5.0\Clase06.Consola.pdb
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\obj\Debug\net5.0\Clase06.Consola.csproj.AssemblyReference.cache
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\obj\Debug\net5.0\Clase06.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\obj\Debug\net5.0\Clase06.Consola.AssemblyInfoInputs.cache
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\obj\Debug\net5.0\Clase06.Consola.AssemblyInfo.cs
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\obj\Debug\net5.0\Clase06.Consola.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\obj\Debug\net5.0\Clase06.Consola.dll
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\obj\Debug\net5.0\ref\Clase06.Consola.dll
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\obj\Debug\net5.0\Clase06.Consola.pdb
+C:\Users\lauta\source\repos\Clase06\Clase06.Consola\obj\Debug\net5.0\Clase06.Consola.genruntimeconfig.cache
