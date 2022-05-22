@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Ejercicio53.Entidades
 {
-    public class Cartuchera2
+    public class CartucheraSimple
     {
         public List<Lapiz> lapices;
         public List<Boligrafo> boligrafos;
 
-        public Cartuchera2()
+        public CartucheraSimple()
         {
             this.lapices = new List<Lapiz>();
             this.boligrafos = new List<Boligrafo>();

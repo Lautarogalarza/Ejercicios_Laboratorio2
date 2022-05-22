@@ -20,10 +20,7 @@ namespace Ejercicio52.Entidades
 
         EscrituraWrapper IAcciones.Escribir(string texto)
         {
-            foreach (char item in texto)
-            {
-                ((IAcciones)this).UnidadesDeEscritura -= (float)0.1;
-            }
+            ((IAcciones)this).UnidadesDeEscritura -= texto.Length * 0.1f;
 
             return new EscrituraWrapper(texto, ((IAcciones)this).Color);
         }

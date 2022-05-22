@@ -1,0 +1,16 @@
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\bin\Debug\net5.0\Archivos_01.exe
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\bin\Debug\net5.0\Archivos_01.deps.json
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\bin\Debug\net5.0\Archivos_01.runtimeconfig.json
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\bin\Debug\net5.0\Archivos_01.runtimeconfig.dev.json
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\bin\Debug\net5.0\Archivos_01.dll
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\bin\Debug\net5.0\Archivos_01.pdb
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\obj\Debug\net5.0\Archivos_01.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\obj\Debug\net5.0\Archivos_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\obj\Debug\net5.0\Archivos_01.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\obj\Debug\net5.0\Archivos_01.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\obj\Debug\net5.0\Archivos_01.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\obj\Debug\net5.0\Archivos_01.dll
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\obj\Debug\net5.0\refint\Archivos_01.dll
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\obj\Debug\net5.0\Archivos_01.pdb
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\obj\Debug\net5.0\Archivos_01.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Archivos-Serializacion\Archivos_01\obj\Debug\net5.0\ref\Archivos_01.dll

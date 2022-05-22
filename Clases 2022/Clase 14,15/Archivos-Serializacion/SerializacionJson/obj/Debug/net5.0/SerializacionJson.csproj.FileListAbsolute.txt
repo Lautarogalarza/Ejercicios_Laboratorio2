@@ -1,0 +1,16 @@
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\bin\Debug\net5.0\SerializacionJson.exe
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\bin\Debug\net5.0\SerializacionJson.deps.json
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\bin\Debug\net5.0\SerializacionJson.runtimeconfig.json
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\bin\Debug\net5.0\SerializacionJson.runtimeconfig.dev.json
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\bin\Debug\net5.0\SerializacionJson.dll
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\bin\Debug\net5.0\SerializacionJson.pdb
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\obj\Debug\net5.0\SerializacionJson.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\obj\Debug\net5.0\SerializacionJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\obj\Debug\net5.0\SerializacionJson.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\obj\Debug\net5.0\SerializacionJson.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\obj\Debug\net5.0\SerializacionJson.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\obj\Debug\net5.0\SerializacionJson.dll
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\obj\Debug\net5.0\refint\SerializacionJson.dll
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\obj\Debug\net5.0\SerializacionJson.pdb
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\obj\Debug\net5.0\SerializacionJson.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Archivos-Serializacion\SerializacionJson\obj\Debug\net5.0\ref\SerializacionJson.dll

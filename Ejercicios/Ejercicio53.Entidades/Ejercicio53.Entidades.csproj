@@ -42,8 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Boligrafo.cs" />
-    <Compile Include="Cartuchera1.cs" />
-    <Compile Include="Cartuchera2.cs" />
+    <Compile Include="CartucheraMultiuso.cs" />
+    <Compile Include="CartucheraSimple.cs" />
     <Compile Include="EscrituraWrapper.cs" />
     <Compile Include="IAcciones.cs" />
     <Compile Include="Lapiz.cs" />

@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T3vfcOwfKNvVgK8ucog6/Br3TgOMyR49S+HJ0UpjDlvUDXdRjHrtr32INgWvLx0kVQ1V0ryVA6HLIB0MDoZjxQ==",
+  "dgSpecHash": "OedLUuC/MchuC5WKIiftzg8B+rtGfuwgUec7GqUT0gDTTacTLY/1YEgX+wIU9wswJslvG8PL0C2ICrc3nY8SOw==",
   "success": true,
   "projectFilePath": "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio47.Consola\\Ejercicio47.Consola.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\lauta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\lauta\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

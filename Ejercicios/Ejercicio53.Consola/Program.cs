@@ -10,8 +10,8 @@ namespace Ejercicio53.Consola
 
             bool retorno;
 
-            Cartuchera1 cartuchera1 = new Cartuchera1();
-            Cartuchera2 cartuchera2 = new Cartuchera2();
+            CartucheraMultiuso cartuchera1 = new CartucheraMultiuso();
+            CartucheraSimple cartuchera2 = new CartucheraSimple();
 
             Lapiz lapiz1 = new Lapiz(5);
             Lapiz lapiz2 = new Lapiz(1);
@@ -30,7 +30,7 @@ namespace Ejercicio53.Consola
             do
             {
 
-                retorno = cartuchera2.ProbarElementos();
+                retorno = cartuchera1.ProbarElementos();
                 Console.WriteLine(retorno);
             } while (retorno == true);
             Console.ReadKey();

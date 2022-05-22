@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Ejercicio53.Entidades
 {
-    public class Cartuchera1
+    public class CartucheraMultiuso
     {
         public List<IAcciones> acciones;
 
-        public Cartuchera1()
+        public CartucheraMultiuso()
         {
             this.acciones = new List<IAcciones>();
         }
