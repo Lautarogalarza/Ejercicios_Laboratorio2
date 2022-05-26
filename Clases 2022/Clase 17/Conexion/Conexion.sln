@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConexionConsola", "ConexionConsola\ConexionConsola.csproj", "{4C002F92-AFB6-4669-B0F1-D0B321174806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{6FA22F5F-6357-4B8A-9029-6C65E99E7CE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{676413F1-A42E-4C07-B737-B010B70AD301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C002F92-AFB6-4669-B0F1-D0B321174806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C002F92-AFB6-4669-B0F1-D0B321174806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C002F92-AFB6-4669-B0F1-D0B321174806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C002F92-AFB6-4669-B0F1-D0B321174806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA22F5F-6357-4B8A-9029-6C65E99E7CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA22F5F-6357-4B8A-9029-6C65E99E7CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA22F5F-6357-4B8A-9029-6C65E99E7CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA22F5F-6357-4B8A-9029-6C65E99E7CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676413F1-A42E-4C07-B737-B010B70AD301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676413F1-A42E-4C07-B737-B010B70AD301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676413F1-A42E-4C07-B737-B010B70AD301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676413F1-A42E-4C07-B737-B010B70AD301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC25B0C7-3D13-4820-808D-496ED9B747DF}
+	EndGlobalSection
+EndGlobal
