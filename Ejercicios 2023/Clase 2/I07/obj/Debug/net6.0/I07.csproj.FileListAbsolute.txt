@@ -1,0 +1,14 @@
+C:\Users\lauta\Desktop\Ejercicios\Clase 2\I07\bin\Debug\net6.0\I07.exe
+C:\Users\lauta\Desktop\Ejercicios\Clase 2\I07\bin\Debug\net6.0\I07.deps.json
+C:\Users\lauta\Desktop\Ejercicios\Clase 2\I07\bin\Debug\net6.0\I07.runtimeconfig.json
+C:\Users\lauta\Desktop\Ejercicios\Clase 2\I07\bin\Debug\net6.0\I07.dll
+C:\Users\lauta\Desktop\Ejercicios\Clase 2\I07\bin\Debug\net6.0\I07.pdb
+C:\Users\lauta\Desktop\Ejercicios\Clase 2\I07\obj\Debug\net6.0\I07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Ejercicios\Clase 2\I07\obj\Debug\net6.0\I07.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Clase 2\I07\obj\Debug\net6.0\I07.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Ejercicios\Clase 2\I07\obj\Debug\net6.0\I07.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Clase 2\I07\obj\Debug\net6.0\I07.dll
+C:\Users\lauta\Desktop\Ejercicios\Clase 2\I07\obj\Debug\net6.0\refint\I07.dll
+C:\Users\lauta\Desktop\Ejercicios\Clase 2\I07\obj\Debug\net6.0\I07.pdb
+C:\Users\lauta\Desktop\Ejercicios\Clase 2\I07\obj\Debug\net6.0\I07.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Ejercicios\Clase 2\I07\obj\Debug\net6.0\ref\I07.dll

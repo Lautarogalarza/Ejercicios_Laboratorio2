@@ -1,0 +1,17 @@
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\bin\Debug\net6.0-windows\I01.exe
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\bin\Debug\net6.0-windows\I01.deps.json
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\bin\Debug\net6.0-windows\I01.runtimeconfig.json
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\bin\Debug\net6.0-windows\I01.dll
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\bin\Debug\net6.0-windows\I01.pdb
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\obj\Debug\net6.0-windows\Vista.FrmMensaje.resources
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\obj\Debug\net6.0-windows\Vista.FrmSaludar.resources
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\obj\Debug\net6.0-windows\I01.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\obj\Debug\net6.0-windows\I01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\obj\Debug\net6.0-windows\I01.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\obj\Debug\net6.0-windows\I01.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\obj\Debug\net6.0-windows\I01.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\obj\Debug\net6.0-windows\I01.dll
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\obj\Debug\net6.0-windows\refint\I01.dll
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\obj\Debug\net6.0-windows\I01.pdb
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\obj\Debug\net6.0-windows\I01.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I01\obj\Debug\net6.0-windows\ref\I01.dll

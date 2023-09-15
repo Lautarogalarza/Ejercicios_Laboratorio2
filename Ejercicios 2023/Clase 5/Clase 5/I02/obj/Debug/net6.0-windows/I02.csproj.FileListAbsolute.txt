@@ -1,0 +1,16 @@
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\bin\Debug\net6.0-windows\I02.exe
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\bin\Debug\net6.0-windows\I02.deps.json
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\bin\Debug\net6.0-windows\I02.runtimeconfig.json
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\bin\Debug\net6.0-windows\I02.dll
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\bin\Debug\net6.0-windows\I02.pdb
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\obj\Debug\net6.0-windows\I02.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\obj\Debug\net6.0-windows\I02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\obj\Debug\net6.0-windows\I02.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\obj\Debug\net6.0-windows\I02.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\obj\Debug\net6.0-windows\I02.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\obj\Debug\net6.0-windows\I02.dll
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\obj\Debug\net6.0-windows\refint\I02.dll
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\obj\Debug\net6.0-windows\I02.pdb
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\obj\Debug\net6.0-windows\I02.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\obj\Debug\net6.0-windows\ref\I02.dll
+C:\Users\lauta\Desktop\Ejercicios\Clase 5\Clase 5\I02\obj\Debug\net6.0-windows\I02.frmRegistro.resources

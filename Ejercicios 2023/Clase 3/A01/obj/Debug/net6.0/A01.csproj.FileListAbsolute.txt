@@ -1,0 +1,14 @@
+C:\Users\lauta\Desktop\Ejercicios\Clase 3\Clase 3\A01\bin\Debug\net6.0\A01.exe
+C:\Users\lauta\Desktop\Ejercicios\Clase 3\Clase 3\A01\bin\Debug\net6.0\A01.deps.json
+C:\Users\lauta\Desktop\Ejercicios\Clase 3\Clase 3\A01\bin\Debug\net6.0\A01.runtimeconfig.json
+C:\Users\lauta\Desktop\Ejercicios\Clase 3\Clase 3\A01\bin\Debug\net6.0\A01.dll
+C:\Users\lauta\Desktop\Ejercicios\Clase 3\Clase 3\A01\bin\Debug\net6.0\A01.pdb
+C:\Users\lauta\Desktop\Ejercicios\Clase 3\Clase 3\A01\obj\Debug\net6.0\A01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Ejercicios\Clase 3\Clase 3\A01\obj\Debug\net6.0\A01.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Clase 3\Clase 3\A01\obj\Debug\net6.0\A01.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Ejercicios\Clase 3\Clase 3\A01\obj\Debug\net6.0\A01.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios\Clase 3\Clase 3\A01\obj\Debug\net6.0\A01.dll
+C:\Users\lauta\Desktop\Ejercicios\Clase 3\Clase 3\A01\obj\Debug\net6.0\refint\A01.dll
+C:\Users\lauta\Desktop\Ejercicios\Clase 3\Clase 3\A01\obj\Debug\net6.0\A01.pdb
+C:\Users\lauta\Desktop\Ejercicios\Clase 3\Clase 3\A01\obj\Debug\net6.0\A01.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Ejercicios\Clase 3\Clase 3\A01\obj\Debug\net6.0\ref\A01.dll
