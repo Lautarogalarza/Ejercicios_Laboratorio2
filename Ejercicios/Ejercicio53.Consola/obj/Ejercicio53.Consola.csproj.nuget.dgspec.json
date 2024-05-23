@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\Ejercicio53.Consola.csproj": {}
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\Ejercicio53.Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\Ejercicio53.Consola.csproj": {
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\Ejercicio53.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\Ejercicio53.Consola.csproj",
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\Ejercicio53.Consola.csproj",
         "projectName": "Ejercicio53.Consola",
-        "projectPath": "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\Ejercicio53.Consola.csproj",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\Ejercicio53.Consola.csproj",
         "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\obj\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Entidades\\Ejercicio53.Entidades.csproj": {
-                "projectPath": "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Entidades\\Ejercicio53.Entidades.csproj"
+              "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Entidades\\Ejercicio53.Entidades.csproj": {
+                "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Entidades\\Ejercicio53.Entidades.csproj"
               }
             }
           }
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,15 +59,15 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Entidades\\Ejercicio53.Entidades.csproj": {
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Entidades\\Ejercicio53.Entidades.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Entidades\\Ejercicio53.Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Entidades\\Ejercicio53.Entidades.csproj",
         "projectName": "Ejercicio53.Entidades",
-        "projectPath": "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Entidades\\Ejercicio53.Entidades.csproj",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios\\Ejercicio53.Entidades\\Ejercicio53.Entidades.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}

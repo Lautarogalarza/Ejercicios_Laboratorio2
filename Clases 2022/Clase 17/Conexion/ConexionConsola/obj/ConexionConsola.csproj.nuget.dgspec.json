@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lauta\\source\\repos\\Conexion\\ConexionConsola\\ConexionConsola.csproj": {}
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 17\\Conexion\\ConexionConsola\\ConexionConsola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lauta\\source\\repos\\Conexion\\ConexionConsola\\ConexionConsola.csproj": {
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 17\\Conexion\\ConexionConsola\\ConexionConsola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lauta\\source\\repos\\Conexion\\ConexionConsola\\ConexionConsola.csproj",
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 17\\Conexion\\ConexionConsola\\ConexionConsola.csproj",
         "projectName": "ConexionConsola",
-        "projectPath": "C:\\Users\\lauta\\source\\repos\\Conexion\\ConexionConsola\\ConexionConsola.csproj",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 17\\Conexion\\ConexionConsola\\ConexionConsola.csproj",
         "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lauta\\source\\repos\\Conexion\\ConexionConsola\\obj\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 17\\Conexion\\ConexionConsola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\lauta\\source\\repos\\Conexion\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\lauta\\source\\repos\\Conexion\\Entidades\\Entidades.csproj"
+              "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 17\\Conexion\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 17\\Conexion\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,18 +59,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lauta\\source\\repos\\Conexion\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 17\\Conexion\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lauta\\source\\repos\\Conexion\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 17\\Conexion\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\lauta\\source\\repos\\Conexion\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 17\\Conexion\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lauta\\source\\repos\\Conexion\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 17\\Conexion\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -109,7 +110,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -118,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

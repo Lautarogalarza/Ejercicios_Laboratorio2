@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion.Vista\\Aplicacion.Vista.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion.Archivos\\Aplicacion.Archivos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion.Archivos\\Aplicacion.Archivos.csproj",
+        "projectName": "Aplicacion.Archivos",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion.Archivos\\Aplicacion.Archivos.csproj",
+        "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion.Archivos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion.Vista\\Aplicacion.Vista.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion.Vista\\Aplicacion.Vista.csproj",
+        "projectName": "Aplicacion.Vista",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion.Vista\\Aplicacion.Vista.csproj",
+        "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion.Vista\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion\\Aplicacion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion\\Aplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion\\Aplicacion.csproj",
+        "projectName": "Aplicacion",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion\\Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion.Archivos\\Aplicacion.Archivos.csproj": {
+                "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Aplicacion.Archivos\\Aplicacion.Archivos.csproj"
+              },
+              "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Applicacion.Modelo\\Applicacion.Modelo.csproj": {
+                "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Applicacion.Modelo\\Applicacion.Modelo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Applicacion.Modelo\\Applicacion.Modelo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Applicacion.Modelo\\Applicacion.Modelo.csproj",
+        "projectName": "Applicacion.Modelo",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Applicacion.Modelo\\Applicacion.Modelo.csproj",
+        "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 7\\SabadoForms\\Applicacion.Modelo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

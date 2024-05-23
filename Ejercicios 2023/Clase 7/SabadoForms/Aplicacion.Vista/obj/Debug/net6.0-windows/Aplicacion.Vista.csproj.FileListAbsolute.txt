@@ -1,0 +1,14 @@
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Vista\bin\Debug\net6.0-windows\Aplicacion.Vista.exe
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Vista\bin\Debug\net6.0-windows\Aplicacion.Vista.deps.json
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Vista\bin\Debug\net6.0-windows\Aplicacion.Vista.runtimeconfig.json
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Vista\bin\Debug\net6.0-windows\Aplicacion.Vista.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Vista\bin\Debug\net6.0-windows\Aplicacion.Vista.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Vista\obj\Debug\net6.0-windows\Aplicacion.Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Vista\obj\Debug\net6.0-windows\Aplicacion.Vista.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Vista\obj\Debug\net6.0-windows\Aplicacion.Vista.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Vista\obj\Debug\net6.0-windows\Aplicacion.Vista.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Vista\obj\Debug\net6.0-windows\Aplicacion.Vista.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Vista\obj\Debug\net6.0-windows\refint\Aplicacion.Vista.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Vista\obj\Debug\net6.0-windows\Aplicacion.Vista.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Vista\obj\Debug\net6.0-windows\Aplicacion.Vista.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Vista\obj\Debug\net6.0-windows\ref\Aplicacion.Vista.dll

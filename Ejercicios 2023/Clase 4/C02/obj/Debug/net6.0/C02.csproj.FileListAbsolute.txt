@@ -1,0 +1,14 @@
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 4\C02\bin\Debug\net6.0\C02.exe
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 4\C02\bin\Debug\net6.0\C02.deps.json
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 4\C02\bin\Debug\net6.0\C02.runtimeconfig.json
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 4\C02\bin\Debug\net6.0\C02.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 4\C02\bin\Debug\net6.0\C02.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 4\C02\obj\Debug\net6.0\C02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 4\C02\obj\Debug\net6.0\C02.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 4\C02\obj\Debug\net6.0\C02.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 4\C02\obj\Debug\net6.0\C02.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 4\C02\obj\Debug\net6.0\C02.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 4\C02\obj\Debug\net6.0\refint\C02.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 4\C02\obj\Debug\net6.0\C02.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 4\C02\obj\Debug\net6.0\C02.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 4\C02\obj\Debug\net6.0\ref\C02.dll

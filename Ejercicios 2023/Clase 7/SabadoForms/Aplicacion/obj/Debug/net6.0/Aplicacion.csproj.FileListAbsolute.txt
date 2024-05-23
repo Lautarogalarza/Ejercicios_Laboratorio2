@@ -1,0 +1,17 @@
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\bin\Debug\net6.0\Aplicacion.Archivos.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\bin\Debug\net6.0\Applicacion.Modelo.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\bin\Debug\net6.0\Aplicacion.Archivos.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\bin\Debug\net6.0\Applicacion.Modelo.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CopyComplete
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll

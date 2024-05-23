@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lauta\\Desktop\\Archivos-Serializacion\\SerializacionJson\\SerializacionJson.csproj": {}
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 14,15\\Archivos-Serializacion\\SerializacionJson\\SerializacionJson.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lauta\\Desktop\\Archivos-Serializacion\\SerializacionJson\\SerializacionJson.csproj": {
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 14,15\\Archivos-Serializacion\\SerializacionJson\\SerializacionJson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Archivos-Serializacion\\SerializacionJson\\SerializacionJson.csproj",
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 14,15\\Archivos-Serializacion\\SerializacionJson\\SerializacionJson.csproj",
         "projectName": "SerializacionJson",
-        "projectPath": "C:\\Users\\lauta\\Desktop\\Archivos-Serializacion\\SerializacionJson\\SerializacionJson.csproj",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 14,15\\Archivos-Serializacion\\SerializacionJson\\SerializacionJson.csproj",
         "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lauta\\Desktop\\Archivos-Serializacion\\SerializacionJson\\obj\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 14,15\\Archivos-Serializacion\\SerializacionJson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

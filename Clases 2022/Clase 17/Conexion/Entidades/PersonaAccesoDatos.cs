@@ -33,7 +33,7 @@ namespace Entidades
 
                 int rows = command.ExecuteNonQuery();
 
-            }
+             }
             catch (Exception)
             {
                 throw;

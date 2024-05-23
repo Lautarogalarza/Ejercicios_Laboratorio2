@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O9cYLGIk7vovEhs6tBmrxCItzT42+FOMWQpKrNT0Lyee6eWNwUhH07h7WD8+2dJDvK5GuUjiISPxVix75GXuNA==",
+  "dgSpecHash": "Lx9+ct1q4b4LjHLCgpOcwmxGEAl8O9Cux2cAPmZ2DAHe31EUja4nlSlqq83F+IEe7+qUKOCcCZxoVhtpwENiwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lauta\\source\\repos\\Conexion\\Vista\\Vista.csproj",
+  "projectFilePath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 17\\Conexion\\Vista\\Vista.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lauta\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\lauta\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

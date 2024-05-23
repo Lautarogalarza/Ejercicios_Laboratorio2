@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lauta\\source\\repos\\Interfaces\\Consola\\Consola.csproj": {}
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 13\\Interfaces\\Consola\\Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lauta\\source\\repos\\Interfaces\\Consola\\Consola.csproj": {
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 13\\Interfaces\\Consola\\Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lauta\\source\\repos\\Interfaces\\Consola\\Consola.csproj",
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 13\\Interfaces\\Consola\\Consola.csproj",
         "projectName": "Consola",
-        "projectPath": "C:\\Users\\lauta\\source\\repos\\Interfaces\\Consola\\Consola.csproj",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 13\\Interfaces\\Consola\\Consola.csproj",
         "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lauta\\source\\repos\\Interfaces\\Consola\\obj\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 13\\Interfaces\\Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\lauta\\source\\repos\\Interfaces\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\lauta\\source\\repos\\Interfaces\\Entidades\\Entidades.csproj"
+              "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 13\\Interfaces\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 13\\Interfaces\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,18 +59,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lauta\\source\\repos\\Interfaces\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 13\\Interfaces\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lauta\\source\\repos\\Interfaces\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 13\\Interfaces\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\lauta\\source\\repos\\Interfaces\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 13\\Interfaces\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lauta\\source\\repos\\Interfaces\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases 2022\\Clase 13\\Interfaces\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,7 +104,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -112,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

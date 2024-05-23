@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lauta\\Desktop\\Ejercicios\\Clase 4\\Clase 4\\I01\\I01.csproj": {}
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 4\\I01\\I01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lauta\\Desktop\\Ejercicios\\Clase 4\\Clase 4\\I01\\I01.csproj": {
+    "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 4\\I01\\I01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Clase 4\\Clase 4\\I01\\I01.csproj",
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 4\\I01\\I01.csproj",
         "projectName": "I01",
-        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Clase 4\\Clase 4\\I01\\I01.csproj",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 4\\I01\\I01.csproj",
         "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Clase 4\\Clase 4\\I01\\obj\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 4\\I01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",

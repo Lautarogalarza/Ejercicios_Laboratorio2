@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Clase 4\\Clase 4\\C02\\C02.csproj",
+      "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 4\\C02\\C02.csproj",
       "projectName": "C02",
-      "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Clase 4\\Clase 4\\C02\\C02.csproj",
+      "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 4\\C02\\C02.csproj",
       "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios\\Clase 4\\Clase 4\\C02\\obj\\",
+      "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Ejercicios 2023\\Clase 4\\C02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",

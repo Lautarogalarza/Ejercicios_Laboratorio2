@@ -35,10 +35,7 @@ namespace C02
                 {
                     sb.AppendLine(Producto.MostrarProducto(e.productos[i]));
                     sb.AppendLine("----------------------");
-
                 }
-
-
             }
             return sb.ToString();
         }

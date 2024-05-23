@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Clases\\Clase01\\Clase01.csproj",
+      "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases\\Clase01\\Clase01.csproj",
       "projectName": "Clase01",
-      "projectPath": "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Clases\\Clase01\\Clase01.csproj",
+      "projectPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases\\Clase01\\Clase01.csproj",
       "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lauta\\Desktop\\PrograYLabo2\\Ejercicios_Laboratorio2\\Clases\\Clase01\\obj\\",
+      "outputPath": "C:\\Users\\lauta\\Desktop\\Ejercicios_Laboratorio2\\Clases\\Clase01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,26 +51,17 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

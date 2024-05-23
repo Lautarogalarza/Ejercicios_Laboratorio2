@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pata>
+    <Largo>0</Largo>
+    <Ancho>0</Ancho>
+    <Grosor>0</Grosor>
+    <Volumen>0</Volumen>
+    <Area>0</Area>
+  </Pata>
+  <Pata>
+    <Largo>0</Largo>
+    <Ancho>0</Ancho>
+    <Grosor>0</Grosor>
+    <Volumen>0</Volumen>
+    <Area>0</Area>
+  </Pata>
+  <Pata>
+    <Largo>0</Largo>
+    <Ancho>0</Ancho>
+    <Grosor>0</Grosor>
+    <Volumen>0</Volumen>
+    <Area>0</Area>
+  </Pata>
+  <Pata>
+    <Largo>0</Largo>
+    <Ancho>0</Ancho>
+    <Grosor>0</Grosor>
+    <Volumen>0</Volumen>
+    <Area>0</Area>
+  </Pata>
+</ArrayOfPata><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pata>
+    <Largo>0</Largo>
+    <Ancho>0</Ancho>
+    <Grosor>0</Grosor>
+    <Volumen>0</Volumen>
+    <Area>0</Area>
+  </Pata>
+  <Pata>
+    <Largo>0</Largo>
+    <Ancho>0</Ancho>
+    <Grosor>0</Grosor>
+    <Volumen>0</Volumen>
+    <Area>0</Area>
+  </Pata>
+  <Pata>
+    <Largo>0</Largo>
+    <Ancho>0</Ancho>
+    <Grosor>0</Grosor>
+    <Volumen>0</Volumen>
+    <Area>0</Area>
+  </Pata>
+  <Pata>
+    <Largo>0</Largo>
+    <Ancho>0</Ancho>
+    <Grosor>0</Grosor>
+    <Volumen>0</Volumen>
+    <Area>0</Area>
+  </Pata>
+</ArrayOfPata>

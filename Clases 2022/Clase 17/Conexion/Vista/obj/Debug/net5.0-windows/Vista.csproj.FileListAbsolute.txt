@@ -25,3 +25,30 @@ C:\Users\lauta\source\repos\Conexion\Vista\obj\Debug\net5.0-windows\refint\Vista
 C:\Users\lauta\source\repos\Conexion\Vista\obj\Debug\net5.0-windows\Vista.pdb
 C:\Users\lauta\source\repos\Conexion\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
 C:\Users\lauta\source\repos\Conexion\Vista\obj\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\bin\Debug\net5.0-windows\Vista.exe
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\bin\Debug\net5.0-windows\Vista.deps.json
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\bin\Debug\net5.0-windows\Vista.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\bin\Debug\net5.0-windows\Vista.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\obj\Debug\net5.0-windows\Vista.Form1.resources
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\obj\Debug\net5.0-windows\Vista.csproj.CopyComplete
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\obj\Debug\net5.0-windows\Vista.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\obj\Debug\net5.0-windows\refint\Vista.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\obj\Debug\net5.0-windows\Vista.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Clases 2022\Clase 17\Conexion\Vista\obj\Debug\net5.0-windows\ref\Vista.dll

@@ -1,0 +1,11 @@
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Archivos\bin\Debug\net6.0\Aplicacion.Archivos.deps.json
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Archivos\bin\Debug\net6.0\Aplicacion.Archivos.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Archivos\bin\Debug\net6.0\Aplicacion.Archivos.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Archivos\obj\Debug\net6.0\Aplicacion.Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Archivos\obj\Debug\net6.0\Aplicacion.Archivos.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Archivos\obj\Debug\net6.0\Aplicacion.Archivos.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Archivos\obj\Debug\net6.0\Aplicacion.Archivos.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Archivos\obj\Debug\net6.0\Aplicacion.Archivos.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Archivos\obj\Debug\net6.0\refint\Aplicacion.Archivos.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Archivos\obj\Debug\net6.0\Aplicacion.Archivos.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\SabadoForms\Aplicacion.Archivos\obj\Debug\net6.0\ref\Aplicacion.Archivos.dll
