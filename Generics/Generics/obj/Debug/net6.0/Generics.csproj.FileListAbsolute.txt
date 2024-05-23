@@ -1,0 +1,14 @@
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\Generics\bin\Debug\net6.0\Generics.exe
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\Generics\bin\Debug\net6.0\Generics.deps.json
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\Generics\bin\Debug\net6.0\Generics.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\Generics\bin\Debug\net6.0\Generics.pdb
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\Generics\obj\Debug\net6.0\Generics.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\Generics\obj\Debug\net6.0\refint\Generics.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\Generics\obj\Debug\net6.0\Generics.pdb
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\Generics\obj\Debug\net6.0\ref\Generics.dll

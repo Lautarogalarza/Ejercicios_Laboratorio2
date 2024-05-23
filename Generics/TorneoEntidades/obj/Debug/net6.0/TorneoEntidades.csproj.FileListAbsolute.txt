@@ -1,0 +1,11 @@
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\TorneoEntidades\bin\Debug\net6.0\TorneoEntidades.deps.json
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\TorneoEntidades\bin\Debug\net6.0\TorneoEntidades.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\TorneoEntidades\bin\Debug\net6.0\TorneoEntidades.pdb
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\TorneoEntidades\obj\Debug\net6.0\TorneoEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\TorneoEntidades\obj\Debug\net6.0\TorneoEntidades.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\TorneoEntidades\obj\Debug\net6.0\TorneoEntidades.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\TorneoEntidades\obj\Debug\net6.0\TorneoEntidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\TorneoEntidades\obj\Debug\net6.0\TorneoEntidades.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\TorneoEntidades\obj\Debug\net6.0\refint\TorneoEntidades.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\TorneoEntidades\obj\Debug\net6.0\TorneoEntidades.pdb
+C:\Users\lauta\Desktop\Eventos\Hilos\Clase11\TorneoEntidades\obj\Debug\net6.0\ref\TorneoEntidades.dll

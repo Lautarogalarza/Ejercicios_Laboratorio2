@@ -1,0 +1,11 @@
+C:\Users\lauta\Desktop\Eventos\Hilos\Herencia - Consola\Herencia - Entidades\bin\Debug\net6.0\Herencia - Entidades.deps.json
+C:\Users\lauta\Desktop\Eventos\Hilos\Herencia - Consola\Herencia - Entidades\bin\Debug\net6.0\Herencia - Entidades.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\Herencia - Consola\Herencia - Entidades\bin\Debug\net6.0\Herencia - Entidades.pdb
+C:\Users\lauta\Desktop\Eventos\Hilos\Herencia - Consola\Herencia - Entidades\obj\Debug\net6.0\Herencia - Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Eventos\Hilos\Herencia - Consola\Herencia - Entidades\obj\Debug\net6.0\Herencia - Entidades.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Eventos\Hilos\Herencia - Consola\Herencia - Entidades\obj\Debug\net6.0\Herencia - Entidades.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Eventos\Hilos\Herencia - Consola\Herencia - Entidades\obj\Debug\net6.0\Herencia - Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Eventos\Hilos\Herencia - Consola\Herencia - Entidades\obj\Debug\net6.0\Herencia - Entidades.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\Herencia - Consola\Herencia - Entidades\obj\Debug\net6.0\refint\Herencia - Entidades.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\Herencia - Consola\Herencia - Entidades\obj\Debug\net6.0\Herencia - Entidades.pdb
+C:\Users\lauta\Desktop\Eventos\Hilos\Herencia - Consola\Herencia - Entidades\obj\Debug\net6.0\ref\Herencia - Entidades.dll
