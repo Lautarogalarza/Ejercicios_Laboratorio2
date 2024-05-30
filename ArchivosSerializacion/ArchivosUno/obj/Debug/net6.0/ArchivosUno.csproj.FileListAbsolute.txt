@@ -1,0 +1,11 @@
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivosUno\bin\Debug\net6.0\ArchivosUno.deps.json
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivosUno\bin\Debug\net6.0\ArchivosUno.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivosUno\bin\Debug\net6.0\ArchivosUno.pdb
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivosUno\obj\Debug\net6.0\ArchivosUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivosUno\obj\Debug\net6.0\ArchivosUno.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivosUno\obj\Debug\net6.0\ArchivosUno.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivosUno\obj\Debug\net6.0\ArchivosUno.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivosUno\obj\Debug\net6.0\ArchivosUno.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivosUno\obj\Debug\net6.0\refint\ArchivosUno.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivosUno\obj\Debug\net6.0\ArchivosUno.pdb
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivosUno\obj\Debug\net6.0\ref\ArchivosUno.dll

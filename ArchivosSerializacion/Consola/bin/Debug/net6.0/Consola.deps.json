@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Consola/1.0.0": {
+        "dependencies": {
+          "ArchivoDos": "1.0.0",
+          "ArchivosUno": "1.0.0",
+          "Serializacion_01": "1.0.0",
+          "Serializacion_02": "1.0.0",
+          "Serializacion_03": "1.0.0"
+        },
+        "runtime": {
+          "Consola.dll": {}
+        }
+      },
+      "ArchivoDos/1.0.0": {
+        "runtime": {
+          "ArchivoDos.dll": {}
+        }
+      },
+      "ArchivosUno/1.0.0": {
+        "runtime": {
+          "ArchivosUno.dll": {}
+        }
+      },
+      "Serializacion_01/1.0.0": {
+        "runtime": {
+          "Serializacion_01.dll": {}
+        }
+      },
+      "Serializacion_02/1.0.0": {
+        "runtime": {
+          "Serializacion_02.dll": {}
+        }
+      },
+      "Serializacion_03/1.0.0": {
+        "runtime": {
+          "Serializacion_03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArchivoDos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArchivosUno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serializacion_01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serializacion_02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serializacion_03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

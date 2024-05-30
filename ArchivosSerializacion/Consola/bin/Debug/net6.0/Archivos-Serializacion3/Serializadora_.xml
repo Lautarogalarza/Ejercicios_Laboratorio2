@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersonaje xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Personaje>
+    <Nombre>GorditoBondiola_</Nombre>
+    <Nivel>10</Nivel>
+  </Personaje>
+  <Personaje xsi:type="Arquero">
+    <Nombre>Mondongo</Nombre>
+    <Nivel>15</Nivel>
+    <TieneArmadura>true</TieneArmadura>
+  </Personaje>
+  <Personaje xsi:type="Espadachin">
+    <Nombre>SuperPancho</Nombre>
+    <Nivel>20</Nivel>
+    <TieneArmadura>false</TieneArmadura>
+  </Personaje>
+</ArrayOfPersonaje>

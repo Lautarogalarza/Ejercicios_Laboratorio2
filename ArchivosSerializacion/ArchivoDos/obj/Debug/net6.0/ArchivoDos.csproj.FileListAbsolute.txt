@@ -1,0 +1,11 @@
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivoDos\bin\Debug\net6.0\ArchivoDos.deps.json
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivoDos\bin\Debug\net6.0\ArchivoDos.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivoDos\bin\Debug\net6.0\ArchivoDos.pdb
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivoDos\obj\Debug\net6.0\ArchivoDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivoDos\obj\Debug\net6.0\ArchivoDos.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivoDos\obj\Debug\net6.0\ArchivoDos.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivoDos\obj\Debug\net6.0\ArchivoDos.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivoDos\obj\Debug\net6.0\ArchivoDos.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivoDos\obj\Debug\net6.0\refint\ArchivoDos.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivoDos\obj\Debug\net6.0\ArchivoDos.pdb
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\ArchivoDos\obj\Debug\net6.0\ref\ArchivoDos.dll

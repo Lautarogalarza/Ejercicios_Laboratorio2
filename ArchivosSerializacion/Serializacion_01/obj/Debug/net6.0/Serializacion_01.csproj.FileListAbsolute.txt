@@ -1,0 +1,11 @@
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\Serializacion_01\bin\Debug\net6.0\Serializacion_01.deps.json
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\Serializacion_01\bin\Debug\net6.0\Serializacion_01.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\Serializacion_01\bin\Debug\net6.0\Serializacion_01.pdb
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\Serializacion_01\obj\Debug\net6.0\Serializacion_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\Serializacion_01\obj\Debug\net6.0\Serializacion_01.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\Serializacion_01\obj\Debug\net6.0\Serializacion_01.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\Serializacion_01\obj\Debug\net6.0\Serializacion_01.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\Serializacion_01\obj\Debug\net6.0\Serializacion_01.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\Serializacion_01\obj\Debug\net6.0\refint\Serializacion_01.dll
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\Serializacion_01\obj\Debug\net6.0\Serializacion_01.pdb
+C:\Users\lauta\Desktop\Eventos\Hilos\ArchivosSerializacion\Serializacion_01\obj\Debug\net6.0\ref\Serializacion_01.dll

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ArchivoDos\ArchivoDos.csproj" />
+    <ProjectReference Include="..\ArchivosUno\ArchivosUno.csproj" />
+    <ProjectReference Include="..\Serializacion_01\Serializacion_01.csproj" />
+    <ProjectReference Include="..\Serializacion_02\Serializacion_02.csproj" />
+    <ProjectReference Include="..\Serializacion_03\Serializacion_03.csproj" />
+  </ItemGroup>
+
+</Project>

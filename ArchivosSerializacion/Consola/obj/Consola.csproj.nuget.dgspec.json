@@ -1,0 +1,354 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Consola\\Consola.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\ArchivoDos\\ArchivoDos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\ArchivoDos\\ArchivoDos.csproj",
+        "projectName": "ArchivoDos",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\ArchivoDos\\ArchivoDos.csproj",
+        "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\ArchivoDos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\ArchivosUno\\ArchivosUno.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\ArchivosUno\\ArchivosUno.csproj",
+        "projectName": "ArchivosUno",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\ArchivosUno\\ArchivosUno.csproj",
+        "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\ArchivosUno\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Consola\\Consola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Consola\\Consola.csproj",
+        "projectName": "Consola",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Consola\\Consola.csproj",
+        "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Consola\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\ArchivoDos\\ArchivoDos.csproj": {
+                "projectPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\ArchivoDos\\ArchivoDos.csproj"
+              },
+              "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\ArchivosUno\\ArchivosUno.csproj": {
+                "projectPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\ArchivosUno\\ArchivosUno.csproj"
+              },
+              "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_01\\Serializacion_01.csproj": {
+                "projectPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_01\\Serializacion_01.csproj"
+              },
+              "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_02\\Serializacion_02.csproj": {
+                "projectPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_02\\Serializacion_02.csproj"
+              },
+              "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_03\\Serializacion_03.csproj": {
+                "projectPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_03\\Serializacion_03.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_01\\Serializacion_01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_01\\Serializacion_01.csproj",
+        "projectName": "Serializacion_01",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_01\\Serializacion_01.csproj",
+        "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_01\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_02\\Serializacion_02.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_02\\Serializacion_02.csproj",
+        "projectName": "Serializacion_02",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_02\\Serializacion_02.csproj",
+        "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_02\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_03\\Serializacion_03.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_03\\Serializacion_03.csproj",
+        "projectName": "Serializacion_03",
+        "projectPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_03\\Serializacion_03.csproj",
+        "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lauta\\Desktop\\Eventos\\Hilos\\ArchivosSerializacion\\Serializacion_03\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
