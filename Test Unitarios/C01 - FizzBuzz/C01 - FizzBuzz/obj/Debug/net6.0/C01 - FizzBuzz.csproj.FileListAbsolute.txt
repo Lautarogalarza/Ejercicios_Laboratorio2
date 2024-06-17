@@ -1,0 +1,18 @@
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\bin\Debug\net6.0\C01 - FizzBuzz.exe
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\bin\Debug\net6.0\C01 - FizzBuzz.deps.json
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\bin\Debug\net6.0\C01 - FizzBuzz.runtimeconfig.json
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\bin\Debug\net6.0\C01 - FizzBuzz.dll
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\bin\Debug\net6.0\C01 - FizzBuzz.pdb
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\bin\Debug\net6.0\Entidades.dll
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\bin\Debug\net6.0\Entidades.pdb
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\obj\Debug\net6.0\C01 - FizzBuzz.csproj.AssemblyReference.cache
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\obj\Debug\net6.0\C01 - FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\obj\Debug\net6.0\C01 - FizzBuzz.AssemblyInfoInputs.cache
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\obj\Debug\net6.0\C01 - FizzBuzz.AssemblyInfo.cs
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\obj\Debug\net6.0\C01 - FizzBuzz.csproj.CoreCompileInputs.cache
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\obj\Debug\net6.0\C01 - FizzBuzz.csproj.CopyComplete
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\obj\Debug\net6.0\C01 - FizzBuzz.dll
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\obj\Debug\net6.0\refint\C01 - FizzBuzz.dll
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\obj\Debug\net6.0\C01 - FizzBuzz.pdb
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\obj\Debug\net6.0\C01 - FizzBuzz.genruntimeconfig.cache
+D:\.VS\C01 - FizzBuzz\C01 - FizzBuzz\obj\Debug\net6.0\ref\C01 - FizzBuzz.dll

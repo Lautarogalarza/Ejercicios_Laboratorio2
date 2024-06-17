@@ -1,0 +1,18 @@
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\bin\Debug\net6.0\I02 - Contador de Digitos.exe
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\bin\Debug\net6.0\I02 - Contador de Digitos.deps.json
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\bin\Debug\net6.0\I02 - Contador de Digitos.runtimeconfig.json
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\bin\Debug\net6.0\I02 - Contador de Digitos.dll
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\bin\Debug\net6.0\I02 - Contador de Digitos.pdb
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\bin\Debug\net6.0\Entidades.dll
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\bin\Debug\net6.0\Entidades.pdb
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\obj\Debug\net6.0\I02 - Contador de Digitos.csproj.AssemblyReference.cache
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\obj\Debug\net6.0\I02 - Contador de Digitos.GeneratedMSBuildEditorConfig.editorconfig
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\obj\Debug\net6.0\I02 - Contador de Digitos.AssemblyInfoInputs.cache
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\obj\Debug\net6.0\I02 - Contador de Digitos.AssemblyInfo.cs
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\obj\Debug\net6.0\I02 - Contador de Digitos.csproj.CoreCompileInputs.cache
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\obj\Debug\net6.0\I02 - Contador de Digitos.csproj.CopyComplete
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\obj\Debug\net6.0\I02 - Contador de Digitos.dll
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\obj\Debug\net6.0\refint\I02 - Contador de Digitos.dll
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\obj\Debug\net6.0\I02 - Contador de Digitos.pdb
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\obj\Debug\net6.0\I02 - Contador de Digitos.genruntimeconfig.cache
+D:\.VS\I02 - Contador de Digitos\I02 - Contador de Digitos\obj\Debug\net6.0\ref\I02 - Contador de Digitos.dll

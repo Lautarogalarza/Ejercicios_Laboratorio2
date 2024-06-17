@@ -1,0 +1,12 @@
+D:\.VS\C01 - FizzBuzz\Entidades\bin\Debug\net6.0\Entidades.deps.json
+D:\.VS\C01 - FizzBuzz\Entidades\bin\Debug\net6.0\Entidades.dll
+D:\.VS\C01 - FizzBuzz\Entidades\bin\Debug\net6.0\Entidades.pdb
+D:\.VS\C01 - FizzBuzz\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+D:\.VS\C01 - FizzBuzz\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\.VS\C01 - FizzBuzz\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+D:\.VS\C01 - FizzBuzz\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+D:\.VS\C01 - FizzBuzz\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+D:\.VS\C01 - FizzBuzz\Entidades\obj\Debug\net6.0\Entidades.dll
+D:\.VS\C01 - FizzBuzz\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+D:\.VS\C01 - FizzBuzz\Entidades\obj\Debug\net6.0\Entidades.pdb
+D:\.VS\C01 - FizzBuzz\Entidades\obj\Debug\net6.0\ref\Entidades.dll
