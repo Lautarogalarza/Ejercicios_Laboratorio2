@@ -1,0 +1,24 @@
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\ConexionSQL\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\ConexionSQL\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\ConexionSQL\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\ConexionSQL\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\ConexionSQL\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\ConexionSQL\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\ConexionSQL\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\ConexionSQL\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\ConexionSQL\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\ConexionSQL\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\ConexionSQL\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\lauta\Desktop\Ejercicios_Laboratorio2\Ejercicios 2023\Clase 7\ConexionSQL\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
+C:\Users\lauta\Desktop\ConexionMySQL\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\lauta\Desktop\ConexionMySQL\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\lauta\Desktop\ConexionMySQL\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\lauta\Desktop\ConexionMySQL\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\ConexionMySQL\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\ConexionMySQL\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\ConexionMySQL\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\lauta\Desktop\ConexionMySQL\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\ConexionMySQL\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\lauta\Desktop\ConexionMySQL\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\lauta\Desktop\ConexionMySQL\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\lauta\Desktop\ConexionMySQL\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
