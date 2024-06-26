@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hilos_Ejemplo1/1.0.0": {
+        "runtime": {
+          "Hilos_Ejemplo1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hilos_Ejemplo1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

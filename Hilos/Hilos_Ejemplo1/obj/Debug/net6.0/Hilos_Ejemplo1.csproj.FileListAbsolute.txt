@@ -1,0 +1,14 @@
+C:\Users\lauta\source\repos\Hilos\Hilos_Ejemplo1\bin\Debug\net6.0\Hilos_Ejemplo1.exe
+C:\Users\lauta\source\repos\Hilos\Hilos_Ejemplo1\bin\Debug\net6.0\Hilos_Ejemplo1.deps.json
+C:\Users\lauta\source\repos\Hilos\Hilos_Ejemplo1\bin\Debug\net6.0\Hilos_Ejemplo1.runtimeconfig.json
+C:\Users\lauta\source\repos\Hilos\Hilos_Ejemplo1\bin\Debug\net6.0\Hilos_Ejemplo1.dll
+C:\Users\lauta\source\repos\Hilos\Hilos_Ejemplo1\bin\Debug\net6.0\Hilos_Ejemplo1.pdb
+C:\Users\lauta\source\repos\Hilos\Hilos_Ejemplo1\obj\Debug\net6.0\Hilos_Ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\source\repos\Hilos\Hilos_Ejemplo1\obj\Debug\net6.0\Hilos_Ejemplo1.AssemblyInfoInputs.cache
+C:\Users\lauta\source\repos\Hilos\Hilos_Ejemplo1\obj\Debug\net6.0\Hilos_Ejemplo1.AssemblyInfo.cs
+C:\Users\lauta\source\repos\Hilos\Hilos_Ejemplo1\obj\Debug\net6.0\Hilos_Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Hilos\Hilos_Ejemplo1\obj\Debug\net6.0\Hilos_Ejemplo1.dll
+C:\Users\lauta\source\repos\Hilos\Hilos_Ejemplo1\obj\Debug\net6.0\refint\Hilos_Ejemplo1.dll
+C:\Users\lauta\source\repos\Hilos\Hilos_Ejemplo1\obj\Debug\net6.0\Hilos_Ejemplo1.pdb
+C:\Users\lauta\source\repos\Hilos\Hilos_Ejemplo1\obj\Debug\net6.0\Hilos_Ejemplo1.genruntimeconfig.cache
+C:\Users\lauta\source\repos\Hilos\Hilos_Ejemplo1\obj\Debug\net6.0\ref\Hilos_Ejemplo1.dll

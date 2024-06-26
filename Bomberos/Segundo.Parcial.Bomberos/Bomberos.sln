@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Formulario", "Formulario\Formulario.csproj", "{98BA25D1-08C7-4498-903F-9AC8678EB09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{424DC56A-8647-4443-B114-668B26478743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{C954C6B3-865C-4DE8-ACFD-A8562A7A9B20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98BA25D1-08C7-4498-903F-9AC8678EB09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98BA25D1-08C7-4498-903F-9AC8678EB09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98BA25D1-08C7-4498-903F-9AC8678EB09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98BA25D1-08C7-4498-903F-9AC8678EB09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{424DC56A-8647-4443-B114-668B26478743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424DC56A-8647-4443-B114-668B26478743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424DC56A-8647-4443-B114-668B26478743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424DC56A-8647-4443-B114-668B26478743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C954C6B3-865C-4DE8-ACFD-A8562A7A9B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C954C6B3-865C-4DE8-ACFD-A8562A7A9B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C954C6B3-865C-4DE8-ACFD-A8562A7A9B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C954C6B3-865C-4DE8-ACFD-A8562A7A9B20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {693DDC5C-ECF4-4A34-8F9D-75B8A704F8BB}
+	EndGlobalSection
+EndGlobal
